@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.SuportePage"
+             Title="Suporte"
+             Padding="5,0,5,5">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text ="Item 1"  
+                Priority="0" Order="Primary" />
+    </ContentPage.ToolbarItems>
+
+
+    <ListView x:Name="ListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell
+                        Text="{Binding Nome}"
+                        TextColor="Gray"
+                        DetailColor="Black"
+                        />
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

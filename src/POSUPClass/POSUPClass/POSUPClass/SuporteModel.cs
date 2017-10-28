@@ -3,15 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
 namespace POSUPClass
 {
-    public partial class MainPage : ContentPage
+    public class SuporteModel
     {
-        public MainPage()
-        {
-            InitializeComponent();
-        }
+        public string Nome { get; set; }
+        public int Idade { get; set; }
     }
 }
