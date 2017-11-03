@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:POSUPClass"
+             x:Class="POSUPClass.PerfilProfessor"
+             BindingContext="{x:Static local:Data.ProfessorFactory.Prof}">
+
+    <ScrollView>
+        <StackLayout Spacing="0" Padding="0" BackgroundColor="LightGray">
+            <StackLayout Spacing="0" Padding="0" BackgroundColor="White">
+                <Image x:Name="profilePic" Margin="20" HeightRequest="120" WidthRequest="120" BackgroundColor="LightGray" HorizontalOptions="Center" VerticalOptions="Start" />
+            </StackLayout>
+            
+            <StackLayout HeightRequest="80" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="5" BackgroundColor="White">
+                <Label Text="{Binding Name}" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="None" TextColor="Black" />
+                <Label Text="Professor" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="None" TextColor="Gray" />
+            </StackLayout>
+
+            <StackLayout Spacing="0" Padding="0" BackgroundColor="White">
+                <StackLayout Orientation="Horizontal" HeightRequest="70" BackgroundColor="White" Padding="10,0" HorizontalOptions="CenterAndExpand">
+                    <StackLayout Spacing="0" BackgroundColor="White" Orientation="Vertical" HorizontalOptions="Start" Padding="5">
+                        <Label FontSize="16" TextColor="Black" Text="{Binding Alunos}" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="16" TextColor="Gray" Text="Alunos" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <StackLayout Spacing="0" BackgroundColor="White" Orientation="Vertical" HorizontalOptions="Start" Padding="5">
+                        <BoxView BackgroundColor="Gray" WidthRequest="2" HeightRequest="40"  HorizontalOptions="StartAndExpand" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <StackLayout Spacing="0" BackgroundColor="White" Orientation="Vertical" HorizontalOptions="Start" Padding="5">
+                        <Label FontSize="16" TextColor="Black" Text="{Binding Cursos}" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="16" TextColor="Gray" Text="Cursos" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <StackLayout Spacing="0" BackgroundColor="White" Orientation="Vertical" HorizontalOptions="Start" Padding="5">
+                        <BoxView BackgroundColor="Gray" WidthRequest="2" HeightRequest="40"  HorizontalOptions="StartAndExpand" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <StackLayout Spacing="0" BackgroundColor="White" Orientation="Vertical" HorizontalOptions="Start" Padding="5">
+                        <Label FontSize="16" TextColor="Black" Text="{Binding Classificacao}" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="16" TextColor="Gray" Text="Classificação" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+            
+            <StackLayout Spacing="0" BackgroundColor="LightGray" HorizontalOptions="Fill" Padding="10,10,10,0">
+                <Label FontSize="16" TextColor="Gray" x:Name="CursosLabel" HorizontalOptions="Start" FontAttributes="Bold" />
+            </StackLayout>
+            
+            <ScrollView Orientation="Horizontal" BackgroundColor="LightGray" HorizontalOptions="FillAndExpand">
+                <StackLayout x:Name="ListCursos" Orientation="Horizontal" HeightRequest="200" BackgroundColor="LightGray" Padding="10" Spacing="20" HorizontalOptions="StartAndExpand">
+                </StackLayout>
+            </ScrollView>
+
+            <StackLayout Spacing="0" BackgroundColor="White" HorizontalOptions="Fill" Padding="20">
+                <Label FontSize="16" TextColor="Black" x:Name="SobreLabel" HorizontalOptions="Start" FontAttributes="None" />
+            </StackLayout>
+
+            <StackLayout x:Name="ListContatos" Margin="0,10,0,0" Spacing="0" BackgroundColor="White" HorizontalOptions="Fill" Padding="10,20,10,20">
+                <Label FontSize="18" TextColor="Black" Text="Contato" HorizontalTextAlignment="Center" FontAttributes="Bold" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
