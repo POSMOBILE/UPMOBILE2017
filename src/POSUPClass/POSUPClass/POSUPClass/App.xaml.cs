@@ -1,4 +1,6 @@
-﻿using System;
+﻿using POSUPClass;
+using POSUPClass.Factory;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +19,8 @@ namespace POSUPClass
         protected override void OnStart()
         {
             // Handle when your app starts
+            SubcategoriaFactory.Initialize();
+            CursoSubcategoriaFactory.Initialize();
         }
 
         protected override void OnSleep()

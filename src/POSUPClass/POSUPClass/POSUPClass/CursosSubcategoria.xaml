@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.CursosSubcategoria">
+
+    <StackLayout>
+
+        <ListView ItemsSource="{Binding Items}"
+                ItemTapped="ListView_ItemTapped"
+                CachingStrategy="RecycleElement">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell Text="{Binding Nome}" 
+                       Detail="{Binding DescInstrutores}" 
+                       DetailColor="Gray"
+                       ImageSource="{Binding ImagemUrl}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" BackgroundColor="#EEEEEE">
+            <Button x:Name="btnFiltros" Clicked="btnFiltros_Clicked" Text="FILTRAR" HorizontalOptions="EndAndExpand" BackgroundColor="Transparent" BorderColor="Transparent"></Button>
+        </StackLayout>
+        
+    </StackLayout>
+    
+    
+</ContentPage>

@@ -13,5 +13,10 @@ namespace POSUPClass
         {
             InitializeComponent();
         }
+
+        async void btnCategorias_Clicked(object sender, EventArgs e)
+        {
+            await this.Navigation.PushAsync(new Subcategorias());
+        }
     }
 }
