@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 using Xamarin.Forms;
 
 namespace POSUPClass
@@ -11,7 +7,7 @@ namespace POSUPClass
     {
         public App()
         {
-            MainPage = new NavigationPage(new POSUPClass.MainPage());
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
