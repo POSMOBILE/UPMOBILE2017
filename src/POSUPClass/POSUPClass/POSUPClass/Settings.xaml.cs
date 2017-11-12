@@ -14,6 +14,12 @@ namespace POSUPClass
     {
         public Settings()
         {
+            SettingsBinding settings = new SettingsBinding();
+            settings.ContinueLectureBackground = true;
+            settings.DownloadToSdCard = false;
+            settings.DownloadWiFiOnly = true;
+            settings.VideoQuality = 1;
+            BindingContext = settings;
             InitializeComponent();
         }
     }
