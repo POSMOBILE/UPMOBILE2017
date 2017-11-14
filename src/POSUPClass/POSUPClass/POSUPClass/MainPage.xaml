@@ -8,6 +8,7 @@
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="Entrar" Clicked="onClickEntrar"/>
             <Button Text="Cadastrar" Clicked="onClickCadastro"/>
         </StackLayout>
     </ContentPage.Content>

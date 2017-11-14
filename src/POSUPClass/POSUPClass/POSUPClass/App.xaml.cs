@@ -11,7 +11,11 @@ namespace POSUPClass
     {
         public App()
         {
-            MainPage = new NavigationPage(new POSUPClass.MainPage());
+             MainPage = new NavigationPage(new POSUPClass.MainPage())
+            //MainPage = new NavigationPage(new POSUPClass.Settings())
+            {
+                BarBackgroundColor = Color.Salmon
+            };
         }
 
         protected override void OnStart()

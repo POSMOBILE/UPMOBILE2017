@@ -15,7 +15,8 @@ namespace POSUPClass
         public void onCadastrarClicked(object sender, EventArgs args)
         {
             var nameValue = nome.Text;
-            if (String.IsNullOrEmpty(nameValue)) {
+            if (String.IsNullOrEmpty(nameValue))
+            {
                 DisplayAlert("Erro", "O campo nome não pode ser nulo", "OK");
                 return;
             }
@@ -38,7 +39,8 @@ namespace POSUPClass
             this.Navigation.PopAsync();
         }
 
-        public void onBackClicked(object sender, EventArgs args){
+        public void onBackClicked(object sender, EventArgs args)
+        {
             this.Navigation.PopAsync();
         }
     }
