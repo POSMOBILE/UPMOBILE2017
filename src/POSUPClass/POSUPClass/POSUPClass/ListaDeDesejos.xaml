@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            Title="Meus Desejos"
+             x:Class="POSUPClass.ListaDeDesejos">
+
+    <ListView x:Name="desejos" HasUnevenRows="true">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="5">
+                        <Image Source="{Binding FotoCursoUrl}" WidthRequest="70" HeightRequest="70" />
+                        <StackLayout HorizontalOptions="StartAndExpand">
+                            <Label Text="{Binding NomeCurso}" TextColor="Black"/>
+                            <Label Text="{Binding Professor}" TextColor="Gray"/>
+                            <Grid>
+                                <Image Source="{Binding EstrelaUrl}"  WidthRequest="102" HeightRequest="23" HorizontalOptions="End"></Image>
+                                <Label Text="{Binding QuantidadePontos}" VerticalTextAlignment="Center" TextColor="Gray"/>
+                            </Grid>
+                            <Label Text="{Binding PrecoInfo}" TextColor="Green"/>
+
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
