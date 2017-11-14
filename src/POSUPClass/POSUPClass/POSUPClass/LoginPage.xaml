@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="POSUPClass.LoginPage">
+	<ContentPage.Content>
+        <StackLayout>
+            <Button Text="Entrar com E-Mail"
+                     VerticalOptions="Center"
+                     Clicked="OnEmailLoginClick"
+            />
+            <Button Text="Entrar com Google"
+                    VerticalOptions="Center" 
+                    Clicked="OnGoogleLoginClick"
+            />
+            <Button Text="Entrar com Facebook"
+                    VerticalOptions="Center" 
+                    Clicked="OnFacebookLoginClick"
+            />
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>
