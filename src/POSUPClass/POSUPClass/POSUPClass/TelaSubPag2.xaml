@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+             x:Class="POSUPClass.TelaSubPag2">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="ic_search_white_24dp.png"/>
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <StackLayout>
+
+            <Label Text="Cursos Populares"
+               FontSize="13" 
+               Margin="8"
+               TextColor="Gray"/>
+
+
+            <forms:CarouselView x:Name="MainCarouselView" VerticalOptions="Start" HeightRequest="197" >
+                <forms:CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Vertical">
+                            <Image Aspect="AspectFit" Source="{Binding img}"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </forms:CarouselView.ItemTemplate>
+            </forms:CarouselView>
+
+            <Label Text="Ver Subcategorias"
+               FontSize="13" 
+               Margin="8"
+               TextColor="Gray"/>
+
+            <ListView x:Name="listView" RowHeight="80">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Fill">
+                                <Image Source="{Binding Image}" AbsoluteLayout.LayoutBounds="15.15, 0.15, 15, 15"/>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Name}" FontSize="17" AbsoluteLayout.LayoutBounds="50, 55, 200, 25"/>
+                                    <Label Text="{Binding Type}" FontSize="13"  AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Black"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+
+        </StackLayout>
+
+
+    </ScrollView>
+
+</ContentPage>
