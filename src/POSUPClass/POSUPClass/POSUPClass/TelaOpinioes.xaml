@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projeto_teste_lenon.TelaOpinioes" Title="Xamarin - Desenvolvimento">
+    <ContentPage.Content>
+      
+            <StackLayout>
+            <ScrollView>
+                <Label Text="Opiniões" FontSize="13" Margin="8" TextColor="Gray" HorizontalOptions="Center" />
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" >
+                    <Label Text="4,3" FontSize="80" Margin="8" TextColor="Gray" HorizontalOptions="Center" AbsoluteLayout.LayoutBounds="15.15, 0.15, 15, 15" />
+                    <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                        <Image Source="estrela_principal.png" AbsoluteLayout.LayoutBounds="50, 50, 200, 25" VerticalOptions="End"/>
+                        <Label Text="10 Avaliações" FontSize="10" Margin="8" TextColor="Gray" VerticalOptions="Start" AbsoluteLayout.LayoutBounds="50, 55, 200, 25"/>
+                    </StackLayout>
+                </StackLayout>
+                <ListView x:Name="listView" RowHeight="100">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" Padding="10">
+                                    <StackLayout Orientation="Vertical" HorizontalOptions="Fill">
+
+                                        <StackLayout Orientation="Vertical">
+                                            <Image Source="{Binding Estrela}" AbsoluteLayout.LayoutBounds="15.15, 0.15, 15, 15" HorizontalOptions="Start"/>
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label Text="{Binding Nome}" FontSize="14" AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Black" />
+                                                <Label Text="{Binding Dias}" FontSize="14"  AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Gray"/>
+                                                <Label Text="dias atrás," FontSize="14"  AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Gray"/>
+                                                <Label Text="{Binding Hora}" FontSize="14"  AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Gray"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                        <Label Text="{Binding Opinioes}" FontSize="14
+                                           "  AbsoluteLayout.LayoutBounds="50, 55, 200, 25" TextColor="Gray"/>
+
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </ScrollView>
+            <StackLayout Orientation="Horizontal"  BackgroundColor="Gray" Padding="30">
+                <Label Text="R$37,99" FontSize="40" HorizontalOptions="StartAndExpand" />
+                <Button Text="       Comprar       " BackgroundColor="Blue" FontSize="15" TextColor="White" HorizontalOptions="EndAndExpand"  />
+            </StackLayout>
+        </StackLayout>
+       
+
+        
+    </ContentPage.Content>
+</ContentPage>
