@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
-             xmlns:fab="clr-namespace:POSUPClass;assembly=POSUPClass"
+             xmlns:fab="clr-namespace:FAB.Forms;assembly=FAB.Forms"
              x:Class="POSUPClass.SuportePage"
              Title="Suporte">
 
@@ -11,22 +11,34 @@
         <ToolbarItem Icon="menu.png" Activated="ToolbarItem_Activated" />
     </ContentPage.ToolbarItems>
 
-    <ScrollView>
-        <StackLayout>
+    <ContentPage.Content>
+        <RelativeLayout>
+            <ContentView RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1}"
+                RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1}">
 
-            <ListView x:Name="ListView">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <TextCell
-                                Text="{Binding Nome}"
-                                TextColor="Gray"
-                                DetailColor="Black"
-                                />
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
+                <ListView x:Name="ListView" BackgroundColor="White">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell
+                                    Text="{Binding Nome}"
+                                    TextColor="Gray"
+                                    DetailColor="Black"
+                                    />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ContentView>
 
+            <fab:FloatingActionButton
+				x:Name="fabBtn"
+				Source="plus.png"
+				Size="Normal"
+				NormalColor="Green"
+				RippleColor="Red"
+                HasShadow="True"
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1, Constant=-75}"
+                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1, Constant=-75}" />
 
-        </StackLayout>
-    </ScrollView>
+        </RelativeLayout>
+    </ContentPage.Content>
 </ContentPage>
