@@ -13,7 +13,7 @@ namespace POSUPClass
         {
             InitializeComponent();
 
-            MainPage = new POSUPClass.SuportePage();
+            MainPage = new NavigationPage(new SuportePage());
         }
 
         protected override void OnStart()

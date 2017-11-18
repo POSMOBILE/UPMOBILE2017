@@ -1,25 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+             xmlns:fab="clr-namespace:POSUPClass;assembly=POSUPClass"
              x:Class="POSUPClass.SuportePage"
-             Title="Suporte"
-             Padding="5,0,5,5">
+             Title="Suporte">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text ="Item 1"  
-                Priority="0" Order="Primary" />
+        <ToolbarItem Icon="ic_search_white_24dp.png" Activated="ToolbarItem_Activated" />
+        <ToolbarItem Icon="menu.png" Activated="ToolbarItem_Activated" />
     </ContentPage.ToolbarItems>
 
+    <ScrollView>
+        <StackLayout>
 
-    <ListView x:Name="ListView">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <TextCell
-                        Text="{Binding Nome}"
-                        TextColor="Gray"
-                        DetailColor="Black"
-                        />
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+            <ListView x:Name="ListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell
+                                Text="{Binding Nome}"
+                                TextColor="Gray"
+                                DetailColor="Black"
+                                />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

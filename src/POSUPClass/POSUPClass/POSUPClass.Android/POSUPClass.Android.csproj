@@ -145,6 +145,48 @@
       <Name>POSUPClass</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\angular.png" />
+    <AndroidResource Include="Resources\drawable\app.png" />
+    <AndroidResource Include="Resources\drawable\aprenda_angular.png" />
+    <AndroidResource Include="Resources\drawable\banco.png" />
+    <AndroidResource Include="Resources\drawable\banco_de_dados.png" />
+    <AndroidResource Include="Resources\drawable\c_sharp.png" />
+    <AndroidResource Include="Resources\drawable\carro.png" />
+    <AndroidResource Include="Resources\drawable\curso_completo.png" />
+    <AndroidResource Include="Resources\drawable\curso_desenvolvedor.png" />
+    <AndroidResource Include="Resources\drawable\docker.png" />
+    <AndroidResource Include="Resources\drawable\e_commerce.png" />
+    <AndroidResource Include="Resources\drawable\engenharia.png" />
+    <AndroidResource Include="Resources\drawable\ferramenta.png" />
+    <AndroidResource Include="Resources\drawable\games.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_search_white_24dp.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_search_white_24dp.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_search_white_24dp.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\menu.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\menu.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\menu.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\plus.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\plus.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\plus.png" />
+    <Content Include="Resources\drawable\ic_search.png" />
+    <AndroidResource Include="Resources\drawable\ic_search_white_24dp.png" />
+    <AndroidResource Include="Resources\drawable\ionic.png" />
+    <AndroidResource Include="Resources\drawable\ios.png" />
+    <AndroidResource Include="Resources\drawable\ios_11.png" />
+    <AndroidResource Include="Resources\drawable\kotlin.png" />
+    <AndroidResource Include="Resources\drawable\linguagem.png" />
+    <AndroidResource Include="Resources\drawable\mongo.png" />
+    <AndroidResource Include="Resources\drawable\php.png" />
+    <AndroidResource Include="Resources\drawable\python.png" />
+    <AndroidResource Include="Resources\drawable\react.png" />
+    <AndroidResource Include="Resources\drawable\ruby.png" />
+    <AndroidResource Include="Resources\drawable\smart.png" />
+    <AndroidResource Include="Resources\drawable\teste.png" />
+    <AndroidResource Include="Resources\drawable\unreal.png" />
+    <AndroidResource Include="Resources\drawable\www.png" />
+    <AndroidResource Include="Resources\drawable\plus.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Android.Support.Animated.Vector.Drawable.25.4.0.2\build\MonoAndroid70\Xamarin.Android.Support.Animated.Vector.Drawable.targets" Condition="Exists('..\..\packages\Xamarin.Android.Support.Animated.Vector.Drawable.25.4.0.2\build\MonoAndroid70\Xamarin.Android.Support.Animated.Vector.Drawable.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

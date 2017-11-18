@@ -38,6 +38,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="FloatingActionButtonSize.cs" />
+    <Compile Include="FloatingActionButtonView.cs" />
+    <Compile Include="NewPage.cs" />
     <Compile Include="SuportePage.xaml.cs">
       <DependentUpon>SuportePage.xaml</DependentUpon>
     </Compile>

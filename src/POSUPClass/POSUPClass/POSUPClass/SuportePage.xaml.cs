@@ -33,5 +33,15 @@ namespace POSUPClass
             
         }
 
+        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new NewPage());
+        }
+
+        private async void ToolbarItem_Activated(object sender, EventArgs e)
+        {
+            DisplayAlert("Pesquisar", "Menu Ativado", "OK");
+        }
+
     }
 }
