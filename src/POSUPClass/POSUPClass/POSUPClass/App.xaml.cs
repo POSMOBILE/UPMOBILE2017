@@ -11,7 +11,7 @@ namespace POSUPClass
     {
         public App()
         {
-            MainPage = new NavigationPage(new POSUPClass.MainPage());
+            MainPage = new NavigationPage(new POSUPClass.MeusCursos());
         }
 
         protected override void OnStart()
