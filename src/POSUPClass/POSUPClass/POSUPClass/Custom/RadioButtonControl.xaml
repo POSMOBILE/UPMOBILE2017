@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.Custom.RadioButtonControl">
+  <ContentView.Content>
+        <Grid x:Name="grid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="28" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Image x:Name="imgUnselected" Source="{Binding ImgOff}" />
+            <Image x:Name="imgSelected" Source="{Binding ImgOn}" IsVisible="{Binding IsSelected}" />
+            <Label Grid.Column="1" Text="{Binding Label}" />
+        </Grid>
+    </ContentView.Content>
+</ContentView>
