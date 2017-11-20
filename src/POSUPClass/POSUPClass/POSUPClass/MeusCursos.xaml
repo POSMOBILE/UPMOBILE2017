@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.MeusCursos">
+    <ContentPage.Title>Meus Cursos</ContentPage.Title>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="searchAction" Text="Pesquisar" />
+    </ContentPage.ToolbarItems>
+    <ListView x:Name="cursos" HasUnevenRows="true">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="5" HeightRequest="100">
+                        <Image Source="{Binding Url}" WidthRequest="70" HeightRequest="70" />
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Nome}" TextColor="Black"/>
+                            <Label Text="{Binding Autores}" TextColor="Gray"/>
+                            <Label Text="{Binding Percentual}" TextColor="Gray"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
