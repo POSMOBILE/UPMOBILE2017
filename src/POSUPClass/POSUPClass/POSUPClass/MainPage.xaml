@@ -5,6 +5,11 @@
              x:Class="POSUPClass.MainPage">
     <ContentPage.Content>
         <StackLayout>
+            <Button Text="Upload de Foto"
+                    VerticalOptions="Start"
+                    HorizontalOptions="Center"
+                    x:Name="uploader"
+                    ></Button>
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />

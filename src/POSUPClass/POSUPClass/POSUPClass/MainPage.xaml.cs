@@ -12,6 +12,13 @@ namespace POSUPClass
         public MainPage()
         {
             InitializeComponent();
+
+            uploader.Clicked += async delegate
+            {
+                await Navigation.PushAsync(new UploadFile());
+            };
         }
+
+       
     }
 }

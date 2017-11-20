@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.UploadFile">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--
+            <Label VerticalOptions="Start" HorizontalOptions="Center" Text="Clique para fazer upload"/>
+            <Image  HorizontalOptions="Fill" VerticalOptions="Fill" x:Name="img" >
+                <Image.Source>
+                    <OnPlatform x:TypeArguments="ImageSource">
+                        <OnPlatform.iOS>
+                            <FileImageSource File="uploader.png"/>
+                        </OnPlatform.iOS>
+                        <OnPlatform.Android>
+                            <FileImageSource File="uploader.png"/>
+                        </OnPlatform.Android>
+                        <OnPlatform.WinPhone>
+                            <FileImageSource File="Images/uploader.png"/>
+                        </OnPlatform.WinPhone>
+                    </OnPlatform>
+                </Image.Source>
+
+            </Image>
+-->
+
+            <WebView x:Name="web"   HorizontalOptions="Fill" VerticalOptions="FillAndExpand"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
