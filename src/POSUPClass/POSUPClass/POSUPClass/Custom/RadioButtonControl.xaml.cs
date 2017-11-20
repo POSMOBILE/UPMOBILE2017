@@ -16,20 +16,37 @@ namespace POSUPClass.Custom
 
         protected ImageSource ImgOff { get { return ImageSource.FromResource("POSUPClass.Images.RadioOff.png"); } }
 
-        public String Label { get; set; }
+        public String Text { get; private set; }
 
-        public bool IsSelected { get; set; }
+        public String Group { get; private set; }
 
-        public RadioButtonControl(String Label, bool IsSelected = false)
+        public bool IsSelected { get; private set; } = false;
+
+        public event EventHandler SelectionChanged;
+
+        public RadioButtonControl(String Text, String Group = "", EventHandler SelectionChanged = null)
         {
             //this.imgUnse
             InitializeComponent();
 
+            this.Text = Text;
+            this.Group = Group;
+            this.IsSelected = IsSelected;
+
+            this.lblLabel.Text = this.Text;
+            this.imgUnselected.Source = ImgOff;
+            this.imgSelected.Source = ImgOn;
+            this.imgSelected.IsVisible = this.IsSelected;
+
+            this.SelectionChanged = SelectionChanged;
+
             TapGestureRecognizer tap = new TapGestureRecognizer();
             tap.Tapped += (object sender, EventArgs e) =>
             {
-                this.imgUnselected.IsVisible = IsSelected;
-                this.imgSelected.IsVisible = IsSelected = !IsSelected;
+                this.imgUnselected.IsVisible = this.IsSelected;
+                this.imgSelected.IsVisible = this.IsSelected = !this.IsSelected;
+
+                SelectionChanged?.Invoke(this, null);
             };
             grid.GestureRecognizers.Add(tap);
         }

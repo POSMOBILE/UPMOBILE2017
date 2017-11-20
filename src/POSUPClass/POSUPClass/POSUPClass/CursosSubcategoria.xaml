@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:ctrls="clr-namespace:POSUPClass.Custom;assembly=RadioButtonControl"
+             xmlns:ctrls="clr-namespace:POSUPClass.Custom;Assembly=RadioButtonControl"
              x:Class="POSUPClass.CursosSubcategoria">
 
     <RelativeLayout>
@@ -10,7 +10,9 @@
             RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width,Factor=1,Constant=0}"
             RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height,Factor=1,Constant=0}">
 
-            <ListView ItemsSource="{Binding Items}"
+            <ListView 
+                x:Name="lstCursos"
+                ItemsSource="{Binding Items}"
                 ItemTapped="ListView_ItemTapped"
                 CachingStrategy="RecycleElement">
 
@@ -70,7 +72,7 @@
                     <StackLayout
                         x:Name="layoutModalControls"
                         Orientation="Vertical"
-                        Padding="10, 20">
+                        Padding="15">
 
                         <Label
                             TextColor="Black"
@@ -78,20 +80,37 @@
                             FontSize="Small"
                             FontAttributes="Bold" />
 
-                        <Picker 
-                            x:Name="picOrdenarPor"
-                            SelectedIndex="0"/>
-
-                        <Label
-                            TextColor="Black"
-                            Text="Preço"
-                            FontSize="Small"
-                            FontAttributes="Bold" />
-
-
+                        
 
                     </StackLayout>
                 </ScrollView>
+
+                <BoxView
+                    HeightRequest="1"
+                    BackgroundColor="LightGray" />
+
+                <StackLayout
+                    HeightRequest="40"
+                    Orientation="Horizontal"
+                    HorizontalOptions="FillAndExpand">
+
+                    <Button
+                        Text="REDEFINIR"
+                        BorderWidth="0"
+                        BackgroundColor="White"
+                        TextColor="Black"
+                        Clicked="Redefinir_Clicked" 
+                        HorizontalOptions="StartAndExpand" />
+
+                    <Button
+                        Text="APLICAR FILTROS"
+                        BorderWidth="0"
+                        BackgroundColor="White"
+                        TextColor="Black"
+                        HorizontalOptions="EndAndExpand"
+                        Clicked="AplicarFiltros_Clicked" />
+
+                </StackLayout>
 
             </StackLayout>
 
