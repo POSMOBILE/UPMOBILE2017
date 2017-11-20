@@ -6,8 +6,13 @@ namespace POSUPClass.model
     {
         public string Nome { get; set; }
         public string Autores { get; set; }
-        public Int32 Percentual { get; set; }
+        public string Percentual { get; set; }
         public string Descricao { get; set; }
         public string Url { get; set; }
+
+        public override string ToString()
+        {
+            return Nome + ". Autores: " + Autores + Url + Percentual;
+        }
     }
 }
