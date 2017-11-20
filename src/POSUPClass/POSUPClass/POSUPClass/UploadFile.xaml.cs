@@ -13,6 +13,7 @@ namespace POSUPClass
     public partial class UploadFile : ContentPage
     {
         IURLDialog fileManager;
+        string url = null;
         
 
         public void click()
@@ -20,9 +21,6 @@ namespace POSUPClass
             
 
            fileManager.show();
-           string url = fileManager.getText();
-
-            //web.Source = url;
        
 
         }
@@ -32,12 +30,12 @@ namespace POSUPClass
            web.Source = url;
         }
 
-        public UploadFile()
+        public UploadFile(string url = null)
         {
             InitializeComponent();
             fileManager = DependencyService.Get<IURLDialog>();
-            uploadWebService = DependencyService.Get<IUploadWebService>();
 
+            this.url = url;
 
            
         }
@@ -45,7 +43,12 @@ namespace POSUPClass
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            click();
+
+            if (url==null)
+            {
+                click();
+
+            }
         }
         
     }
