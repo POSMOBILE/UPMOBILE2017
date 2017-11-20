@@ -13,5 +13,15 @@ namespace POSUPClass
         {
             InitializeComponent();
         }
+
+        void onClickCadastro(object sender, System.EventArgs e)
+        {
+            this.Navigation.PushAsync(new CadastroPage());
+        }
+
+        void onClickEntrar(object sender, System.EventArgs e)
+        {
+            this.Navigation.PushAsync(new Settings());
+        }
     }
 }
