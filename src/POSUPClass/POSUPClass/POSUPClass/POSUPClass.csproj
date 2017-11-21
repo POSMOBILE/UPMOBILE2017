@@ -60,12 +60,19 @@
     </Compile>
     <Compile Include="Factory\CursoSubcategoriaFactory.cs" />
     <Compile Include="Factory\SubcategoriaFactory.cs" />
+    <Compile Include="DetalheTicketPage.xaml.cs">
+      <DependentUpon>DetalheTicketPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="MeusCursos.xaml.cs">
       <DependentUpon>MeusCursos.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MeusTickets.xaml.cs">
+      <DependentUpon>MeusTickets.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="model\Curso.cs" />
     <Compile Include="Model\ElementoOpinioes.cs" />
     <Compile Include="Model\Desejo.cs" />
     <Compile Include="Model\Curso.cs" />
@@ -75,6 +82,7 @@
     <Compile Include="Model\Categoria.cs" />
     <Compile Include="Model\CursoSubcategoria.cs" />
     <Compile Include="Model\Subcategoria.cs" />
+    <Compile Include="model\Ticket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings.xaml.cs">
       <DependentUpon>Settings.xaml</DependentUpon>
@@ -194,6 +202,18 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Custom\ListBox.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DetalheTicketPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MeusTickets.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
