@@ -18,7 +18,11 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+=======
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+>>>>>>> d07b8967db34c9c8af91c4f251dc3627939380bd
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
     <JavaMaximumHeapSize />
@@ -129,6 +133,21 @@
     <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
+<<<<<<< HEAD
+=======
+    <AndroidResource Include="Resources\drawable\c_user.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\c_user.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\c_user.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\c_user.png" />
+    <AndroidResource Include="Resources\drawable\c_email.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\c_email.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\c_email.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\c_email.png" />
+    <AndroidResource Include="Resources\drawable\c_password.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\c_password.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\c_password.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\c_password.png" />
+>>>>>>> d07b8967db34c9c8af91c4f251dc3627939380bd
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
@@ -140,7 +159,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\POSUPClass\POSUPClass.csproj">
+<<<<<<< HEAD
       <Project>{9965d865-5fb9-468d-becc-54633cd17709}</Project>
+=======
+      <Project>{45E3FCFE-2990-4D79-9A5A-1D7F8D916898}</Project>
+>>>>>>> d07b8967db34c9c8af91c4f251dc3627939380bd
       <Name>POSUPClass</Name>
     </ProjectReference>
   </ItemGroup>

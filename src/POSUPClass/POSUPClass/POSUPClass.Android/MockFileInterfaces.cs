@@ -14,11 +14,16 @@ namespace POSUPClass
     
 
 
-    class MockUploadWebService : IUploadWebService
+    public class MockUploadWebService : IUploadWebService
     {
 
 
         private static List<Uri> fotos = new List<Uri>();
+
+        public MockUploadWebService()
+        {
+
+        }
 
         public void deleteFile(Uri uri)
         {

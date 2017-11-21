@@ -12,15 +12,17 @@ namespace POSUPClass
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class UploadFile : ContentPage
     {
-        IURLDialog fileManager;
         string url = null;
         
 
-        public void click()
+        public void showManager()
         {
-            
 
-           fileManager.show();
+            
+                var fileManager = DependencyService.Get<IURLDialog>();
+
+                fileManager.show();
+            
        
 
         }
@@ -28,28 +30,38 @@ namespace POSUPClass
         public void SetURL(string url)
         {
            web.Source = url;
+            this.url = url;
         }
 
-        public UploadFile(string url = null)
+        public UploadFile(string url=null)
         {
             InitializeComponent();
-            fileManager = DependencyService.Get<IURLDialog>();
 
-            this.url = url;
+            click.Clicked += (sender, e) =>
+             {
+                 showManager();
+             };
 
-           
-        }
-        
-        protected override void OnAppearing()
-        {
-            base.OnAppearing();
-
-            if (url==null)
+            if (url == null)
             {
-                click();
+                var files = DependencyService.Get<IUploadWebService>();
+                var list = files.listFiles();
 
+                if (list.Length > 0)
+                {
+                    SetURL( list[0].ToString());
+                } 
+            } else
+            {
+                this.url = url;
             }
+
+
         }
+
         
+
+
+
     }
 }

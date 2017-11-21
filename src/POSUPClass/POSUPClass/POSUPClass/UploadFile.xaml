@@ -24,6 +24,7 @@
             </Image>
 -->
 
+            <Button x:Name="click" Text="Submeter URL de vídeo"  HorizontalOptions="Fill" VerticalOptions="Start"/>
             <WebView x:Name="web"   HorizontalOptions="Fill" VerticalOptions="FillAndExpand"/>
 
 

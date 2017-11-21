@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.Settings">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Settings">
+                <TableRoot>
+                    <TableSection Title="Lecture Playback">
+                        <!--<SwitchCell Text="Continue lecture in backgroud" On="True"/>-->
+                        <SwitchCell Text="Continue lecture in backgroud" On="{Binding ContinueLectureBackground}"/>
+                    </TableSection>
+                    <TableSection Title="Video donwload options">
+                        <!--<SwitchCell Text="Download via Wi-Fi only" On="True"/>-->
+                        <SwitchCell Text="Download via Wi-Fi only" On="{Binding DownloadWiFiOnly}"/>
+                        <!--<SwitchCell Text="Download to SD card" />-->
+                        <SwitchCell Text="Download to SD card" On="{Binding DownloadToSdCard}"/>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Orientation="Horizontal"  Padding="13, 0">
+                                    <Label Text="Video download quality" VerticalOptions="Center"/>
+                                    <Picker x:Name="videoDownloadQuality" HorizontalOptions="EndAndExpand" SelectedIndex="{Binding VideoQuality}">
+                                        <Picker.ItemsSource>
+                                            <x:Array Type="{x:Type x:String}">
+                                                <x:String>360p </x:String>
+                                                <x:String>480p </x:String>
+                                                <x:String>720p </x:String>
+                                                <x:String>1080p</x:String>
+                                            </x:Array>
+                                        </Picker.ItemsSource>
+                                        <!--<Picker.SelectedIndex>2</Picker.SelectedIndex>-->
+                                    </Picker>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </TableSection>
+                    <TableSection Title="Notification settings">
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Orientation="Horizontal"  Padding="13, 0">
+                                    <Label Text="Edit notification settings" VerticalOptions="Center"/>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

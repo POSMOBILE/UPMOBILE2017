@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace POSUPClass
 {
@@ -17,8 +12,33 @@ namespace POSUPClass
             {
                 await Navigation.PushAsync(new UploadFile());
             };
+
+            entrar.Clicked +=  (sender,e)=>
+            {
+                OnClickEntrar(sender, e);
+            };
+
+            cadastro.Clicked += (sender, e) =>
+            {
+                OnClickCadastro(sender, e);
+            };
+
+            uploader.Clicked += (sender, e) =>
+            {
+                Navigation.PushAsync(new UploadFile());
+            };
+
         }
 
-       
+        public void OnClickCadastro(object sender, System.EventArgs e)
+        {
+            this.Navigation.PushAsync(new CadastroPage());
+        }
+
+        public void OnClickEntrar(object sender, System.EventArgs e)
+        {
+            this.Navigation.PushAsync(new Settings());
+        }
+
     }
 }

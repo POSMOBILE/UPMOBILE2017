@@ -45,7 +45,7 @@ namespace POSUPClass.Droid
             });
             ad.Show();
 
-            AlertDialog add = ad.Create();
+            //AlertDialog add = ad.Create();
 
 
         }

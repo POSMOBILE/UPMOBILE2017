@@ -117,6 +117,9 @@
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Naxam.CarouselView.Forms, Version=1.0.6358.41497, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Naxam.CarouselView.0.0.1\lib\portable-net45+wp80+win8+wpa81\Naxam.CarouselView.Forms.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSUPClass.Android", "POSUPClass\POSUPClass.Android\POSUPClass.Android.csproj", "{9E15E7B8-7A90-41C3-BB5A-BB34CF69B0C7}"
 EndProject
@@ -99,7 +99,6 @@ Global
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Debug|iPhone.Build.0 = Debug|iPhone
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Release|iPhone.ActiveCfg = Release|iPhone
 		{21B08113-B6E1-4CFE-AABF-10B3661349AB}.Release|iPhone.Build.0 = Release|iPhone
