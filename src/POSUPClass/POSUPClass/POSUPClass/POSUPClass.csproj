@@ -75,6 +75,7 @@
     <Compile Include="model\Curso.cs" />
     <Compile Include="Model\ElementoOpinioes.cs" />
     <Compile Include="Model\Desejo.cs" />
+    <Compile Include="model\FileInterfaces.cs" />
     <Compile Include="PerfilProfessor.xaml.cs">
       <DependentUpon>PerfilProfessor.xaml</DependentUpon>
     </Compile>
@@ -93,6 +94,9 @@
     <Compile Include="TelaSubPag2.xaml.cs">
       <DependentUpon>TelaSubPag2.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UploadFile.xaml.cs">
+      <DependentUpon>UploadFile.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModel\ElementsViewModel.cs" />
     <Compile Include="Subcategorias.xaml.cs">
       <DependentUpon>Subcategorias.xaml</DependentUpon>
@@ -106,6 +110,10 @@
     <EmbeddedResource Include="App.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadFile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

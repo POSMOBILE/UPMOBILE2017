@@ -49,6 +49,10 @@ namespace POSUPClass
                     this.Navigation.PushAsync(new MeusTickets());
                     break;
 
+                case "Video":
+                    this.Navigation.PushAsync(new UploadFile());
+                    break;
+
                 default:
                     break;
             }

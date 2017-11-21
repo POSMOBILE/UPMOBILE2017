@@ -10,6 +10,8 @@
 
             <Button Text="Cadastro" Clicked="onClick" CommandParameter="Cadastro" />
 
+            <Button Text="Upload vídeo" Clicked="onClick" CommandParameter="Video" />
+            
             <Button Text="Settings" Clicked="onClick" CommandParameter="Settings" />
 
             <Button Text="Lista de Desejos" Clicked="onClick" CommandParameter="Wishlist" />
