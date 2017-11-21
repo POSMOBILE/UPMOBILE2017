@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:POSUPClass"
@@ -10,7 +10,7 @@
             <StackLayout Spacing="0" Padding="0" BackgroundColor="White">
                 <Image x:Name="profilePic" Margin="20" HeightRequest="120" WidthRequest="120" BackgroundColor="LightGray" HorizontalOptions="Center" VerticalOptions="Start" />
             </StackLayout>
-            
+
             <StackLayout HeightRequest="80" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="5" BackgroundColor="White">
                 <Label Text="{Binding Name}" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="None" TextColor="Black" />
                 <Label Text="Professor" FontSize="22" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="None" TextColor="Gray" />
@@ -42,11 +42,11 @@
                     </StackLayout>
                 </StackLayout>
             </StackLayout>
-            
+
             <StackLayout Spacing="0" BackgroundColor="LightGray" HorizontalOptions="Fill" Padding="10,10,10,0">
                 <Label FontSize="16" TextColor="Gray" x:Name="CursosLabel" HorizontalOptions="Start" FontAttributes="Bold" />
             </StackLayout>
-            
+
             <ScrollView Orientation="Horizontal" BackgroundColor="LightGray" HorizontalOptions="FillAndExpand">
                 <StackLayout x:Name="ListCursos" Orientation="Horizontal" HeightRequest="200" BackgroundColor="LightGray" Padding="10" Spacing="20" HorizontalOptions="StartAndExpand">
                 </StackLayout>

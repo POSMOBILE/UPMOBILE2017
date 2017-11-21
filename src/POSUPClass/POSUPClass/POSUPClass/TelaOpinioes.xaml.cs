@@ -38,7 +38,7 @@ namespace projeto_teste_lenon
                 Estrela = "estrela_2.png",
                 Nome = "Lucas Rezendo do Nascimento",
                 Dias = "4",
-                Hora = "00:27",        
+                Hora = "00:27",
                 Opinioes = "Curso muito bom, mas senti falta de alguns detalhes sobre " +
                 "notificação usando o Xamarin"
             });
@@ -47,7 +47,7 @@ namespace projeto_teste_lenon
                 Estrela = "estrela_3.png",
                 Nome = "Luciano da Silva Dória",
                 Dias = "5",
-                Hora = "09:25",          
+                Hora = "09:25",
                 Opinioes = "Aulas didaticas, bem explicadas e com atualizações de vídeos " +
                 "aulas assim que tem novas versões do Xamarin"
             });

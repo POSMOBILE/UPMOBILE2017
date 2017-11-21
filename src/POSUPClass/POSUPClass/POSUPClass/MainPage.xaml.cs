@@ -12,16 +12,43 @@ namespace POSUPClass
         public MainPage()
         {
             InitializeComponent();
+            Title = "Xamarin - Pós UP 2017";
         }
 
-        void onClickCadastro(object sender, System.EventArgs e)
+        void onClick(object sender, System.EventArgs e)
         {
-            this.Navigation.PushAsync(new CadastroPage());
-        }
+            var btn = sender as Button;
 
-        void onClickEntrar(object sender, System.EventArgs e)
-        {
-            this.Navigation.PushAsync(new Settings());
+            switch (btn.CommandParameter.ToString())
+            {
+                case "Cadastro":
+                    this.Navigation.PushAsync(new CadastroPage());
+                    break;
+                case "Settings":
+                    this.Navigation.PushAsync(new Settings());
+                    break;
+                case "Wishlist":
+                    this.Navigation.PushAsync(new ListaDeDesejos());
+                    break;
+                case "MeusCursos":
+                    this.Navigation.PushAsync(new MeusCursos());
+                    break;
+                case "PerfilProfessor":
+                    this.Navigation.PushAsync(new PerfilProfessor());
+                    break;
+                case "Opinioes":
+                    this.Navigation.PushAsync(new projeto_teste_lenon.TelaOpinioes());
+                    break;
+                case "Subcategorias":
+                    this.Navigation.PushAsync(new TelaSubPag2());
+                    break;
+                case "SubcategoriasFiltro":
+                    this.Navigation.PushAsync(new TelaSubPag2());
+                    break;
+
+                default:
+                    break;
+            }
         }
     }
 }

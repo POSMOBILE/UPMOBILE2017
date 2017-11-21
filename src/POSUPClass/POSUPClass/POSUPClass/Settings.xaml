@@ -22,9 +22,9 @@
                                     <Picker x:Name="videoDownloadQuality" HorizontalOptions="EndAndExpand" SelectedIndex="{Binding VideoQuality}">
                                         <Picker.ItemsSource>
                                             <x:Array Type="{x:Type x:String}">
-                                                <x:String>360p </x:String>
-                                                <x:String>480p </x:String>
-                                                <x:String>720p </x:String>
+                                                <x:String>360p</x:String>
+                                                <x:String>480p</x:String>
+                                                <x:String>720p</x:String>
                                                 <x:String>1080p</x:String>
                                             </x:Array>
                                         </Picker.ItemsSource>

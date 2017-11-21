@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="projeto_teste_lenon.TelaOpinioes" Title="Xamarin - Desenvolvimento">
     <ContentPage.Content>
-      
-            <StackLayout>
+
+        <StackLayout>
             <ScrollView>
                 <Label Text="Opiniões" FontSize="13" Margin="8" TextColor="Gray" HorizontalOptions="Center" />
                 <StackLayout Orientation="Horizontal" HorizontalOptions="Center" >
@@ -47,8 +47,8 @@
                 <Button Text="       Comprar       " BackgroundColor="Blue" FontSize="15" TextColor="White" HorizontalOptions="EndAndExpand"  />
             </StackLayout>
         </StackLayout>
-       
 
-        
+
+
     </ContentPage.Content>
 </ContentPage>
