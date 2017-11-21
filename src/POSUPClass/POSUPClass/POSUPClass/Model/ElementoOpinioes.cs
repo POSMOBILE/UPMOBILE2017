@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace projeto_teste_lenon.Modelo
+namespace POSUPClass.Model
 {
     public class ElementoOpinioes
     {

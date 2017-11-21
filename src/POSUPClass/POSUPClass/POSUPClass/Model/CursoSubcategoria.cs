@@ -33,6 +33,8 @@ namespace POSUPClass.Model
         public String ImagemUrl { get; set; }
 
         public String DescInstrutores { get { return Instrutores != null ? String.Join(", ", Instrutores) : ""; } }
+
+        public String Preco { get { return $"{PrecoAtual} {PrecoAntigo}"; } }
     }
 
 }

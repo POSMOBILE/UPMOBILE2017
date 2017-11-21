@@ -1,6 +1,6 @@
-﻿using POSUPClass.models;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 using System.Collections.Generic;
+using POSUPClass.Model;
 
 namespace POSUPClass
 {

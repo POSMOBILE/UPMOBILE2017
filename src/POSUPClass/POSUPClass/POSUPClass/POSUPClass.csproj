@@ -66,9 +66,9 @@
     <Compile Include="MeusCursos.xaml.cs">
       <DependentUpon>MeusCursos.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Modelo\ElementoOpinioes.cs" />
-    <Compile Include="models\Desejo.cs" />
-    <Compile Include="model\Curso.cs" />
+    <Compile Include="Model\ElementoOpinioes.cs" />
+    <Compile Include="Model\Desejo.cs" />
+    <Compile Include="Model\Curso.cs" />
     <Compile Include="PerfilProfessor.xaml.cs">
       <DependentUpon>PerfilProfessor.xaml</DependentUpon>
     </Compile>

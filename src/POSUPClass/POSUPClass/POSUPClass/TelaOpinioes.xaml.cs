@@ -1,4 +1,4 @@
-﻿using projeto_teste_lenon.Modelo;
+﻿using POSUPClass.Model;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

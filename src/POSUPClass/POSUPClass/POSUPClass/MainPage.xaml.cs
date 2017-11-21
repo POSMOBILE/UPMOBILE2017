@@ -43,7 +43,7 @@ namespace POSUPClass
                     this.Navigation.PushAsync(new TelaSubPag2());
                     break;
                 case "SubcategoriasFiltro":
-                    this.Navigation.PushAsync(new TelaSubPag2());
+                    this.Navigation.PushAsync(new Subcategorias());
                     break;
 
                 default:
