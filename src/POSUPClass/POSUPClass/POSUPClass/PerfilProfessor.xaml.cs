@@ -17,7 +17,7 @@ namespace POSUPClass
 
             ToolbarItems.Add(new ToolbarItem("Search", "ic_share.png", () =>
             {
-                
+
             }));
 
             profilePic.Source = Data.ProfessorFactory.Prof.Picture;
@@ -185,7 +185,7 @@ namespace POSUPClass
                     Text = contato.Url,
                     HorizontalOptions = LayoutOptions.StartAndExpand,
                     VerticalOptions = LayoutOptions.Center,
-                    Margin = new Thickness(0,5,0,0)
+                    Margin = new Thickness(0, 5, 0, 0)
                 };
 
                 infoContainer.Children.Add(title);

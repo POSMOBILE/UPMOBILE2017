@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace POSUPClass.model
+namespace POSUPClass.Model
 {
     public class Curso
     {

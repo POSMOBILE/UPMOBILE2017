@@ -1,0 +1,950 @@
+[
+    {
+        "Nome": "Fast MBA - Empreendedorismo, Negócios e Startups na Prática.",
+        "Estrelas": 4.52714,
+        "Reviews": 1087,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "André Bernardo"
+        ]
+    },
+    {
+        "Nome": "MBA Completo em 1 Curso: Prof Premiado de Escola de Negócios",
+        "Estrelas": 4.50236,
+        "Reviews": 212,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "Arte do Networking - Expandindo a Rede de Contatos",
+        "Estrelas": 4.5,
+        "Reviews": 38,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$295",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Raiam Santos"
+        ]
+    },
+    {
+        "Nome": "Formação Inicial em Design Thinking",
+        "Estrelas": 4.26087,
+        "Reviews": 207,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$160",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Kleber Donady"
+        ]
+    },
+    {
+        "Nome": "LinkedIn Player - Como se destacar na multidão",
+        "Estrelas": 4.57895,
+        "Reviews": 95,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Alexandre Silva"
+        ]
+    },
+    {
+        "Nome": "Criatividade e Inovação nos Negócios",
+        "Estrelas": 4.48864,
+        "Reviews": 44,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$340",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Floriano Ferreira"
+        ]
+    },
+    {
+        "Nome": "O Guia Essencial de Empreendedorismo por Guy Kawasaki",
+        "Estrelas": 4.53788,
+        "Reviews": 66,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Guy Kawasaki"
+        ]
+    },
+    {
+        "Nome": "Registro de patente - Inventando, depositando e empreendendo",
+        "Estrelas": 4.86765,
+        "Reviews": 34,
+        "PrecoAtual": "R$73",
+        "PrecoAntigo": "R$295",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Leopoldo Almeida"
+        ]
+    },
+    {
+        "Nome": "Empreendedorismo Digital para Professores",
+        "Estrelas": 4.67606,
+        "Reviews": 71,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$220",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Leila Adriano Ostoyke",
+            "Germana Uchoa"
+        ]
+    },
+    {
+        "Nome": "Modelo de Negócios Canvas: Transformando Ideias em Negócios",
+        "Estrelas": 4.5,
+        "Reviews": 33,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Instrutor Caio Oliveira"
+        ]
+    },
+    {
+        "Nome": "Prati Canvas: da Ideia de Negócio à Prática",
+        "Estrelas": 4.52,
+        "Reviews": 25,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$175",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Alexandre Rocha Martins",
+            "Fabrício Yutaka Fujikawa"
+        ]
+    },
+    {
+        "Nome": "BMC: Da ideia ao seu primeiro negócio!",
+        "Estrelas": 4.4291,
+        "Reviews": 134,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Wissler Botelho B. Júnior"
+        ]
+    },
+    {
+        "Nome": "E-commerce: Venda na Internet para Micro e Pequenas Empresas",
+        "Estrelas": 4.3871,
+        "Reviews": 31,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Sebrae Santa Catarina"
+        ]
+    },
+    {
+        "Nome": "Criar Curso – Seu Primeiro Curso no Ar!",
+        "Estrelas": 5,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marco Aurélio Gomes"
+        ]
+    },
+    {
+        "Nome": "An Entire MBA in 1 Course:Award Winning Business School Prof",
+        "Estrelas": 4.4326,
+        "Reviews": 14696,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "Cryptocurrency Investment Course 2017: Fund your Retirement!",
+        "Estrelas": 4.4419,
+        "Reviews": 6222,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Suppoman ™"
+        ]
+    },
+    {
+        "Nome": "Think Like a Leader with Brian Tracy",
+        "Estrelas": 4.64569,
+        "Reviews": 429,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Brian Tracy"
+        ]
+    },
+    {
+        "Nome": "#1 Cryptocurrency Long-term Investment Opportunity 2017",
+        "Estrelas": 4.42401,
+        "Reviews": 2836,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Suppoman ™"
+        ]
+    },
+    {
+        "Nome": "Build a Shopify Dropshipping Business from Scratch",
+        "Estrelas": 4.54499,
+        "Reviews": 1656,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Adam Reed"
+        ]
+    },
+    {
+        "Nome": "Amazon FBA Masterclass 2017: How to Launch a 7-Figure Brand",
+        "Estrelas": 4.73636,
+        "Reviews": 330,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Benjamin Wilson",
+            "Evan Walton"
+        ]
+    },
+    {
+        "Nome": "How to come up with killer business ideas: complete workshop",
+        "Estrelas": 4.48837,
+        "Reviews": 989,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$490",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "101 Crucial Lessons They Don't Teach You In Business School",
+        "Estrelas": 4.49825,
+        "Reviews": 573,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "MBA in a Box: Business Lessons from a CEO",
+        "Estrelas": 4.60515,
+        "Reviews": 233,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "365 Careers"
+        ]
+    },
+    {
+        "Nome": "The Essential Guide to Entrepreneurship by Guy Kawasaki",
+        "Estrelas": 4.61673,
+        "Reviews": 1088,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Guy Kawasaki"
+        ]
+    },
+    {
+        "Nome": "From China to Amazon - A LIVE case study and complete guide",
+        "Estrelas": 4.64406,
+        "Reviews": 774,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Manuel Becvar"
+        ]
+    },
+    {
+        "Nome": "Facebook Ads for E-Commerce: The Complete Guide",
+        "Estrelas": 4.67036,
+        "Reviews": 361,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Adam Reed"
+        ]
+    },
+    {
+        "Nome": "Guy Kawasaki’s The Art of Evangelism",
+        "Estrelas": 4.5367,
+        "Reviews": 763,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$430",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Guy Kawasaki"
+        ]
+    },
+    {
+        "Nome": "Seth Godin's Freelancer Course",
+        "Estrelas": 4.64294,
+        "Reviews": 3470,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Seth Godin"
+        ]
+    },
+    {
+        "Nome": "Seth Godin's Value Creation Master Class",
+        "Estrelas": 4.55689,
+        "Reviews": 747,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Seth Godin"
+        ]
+    },
+    {
+        "Nome": "1 day MVP 2.0 | Go from idea to MVP in just 1 day",
+        "Estrelas": 4.65837,
+        "Reviews": 783,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "How To Start A Business: Business Ideas To Success",
+        "Estrelas": 4.59951,
+        "Reviews": 206,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Genadinik"
+        ]
+    },
+    {
+        "Nome": "Sells Like Hot Cakes: TURNKEY Amazon FBA & Shopify System",
+        "Estrelas": 4.41111,
+        "Reviews": 135,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Good Guy Mike Sole"
+        ]
+    },
+    {
+        "Nome": "2017 Blog Blueprint: How To Turn Blogging Into A Career",
+        "Estrelas": 4.48181,
+        "Reviews": 962,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Mr Daniel Boehm"
+        ]
+    },
+    {
+        "Nome": "Intro to Entrepreneurship: Get started as an Entrepreneur",
+        "Estrelas": 4.59802,
+        "Reviews": 556,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "Business Development Masterclass: Learn To Build Businesses",
+        "Estrelas": 4.33007,
+        "Reviews": 153,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Leon Chaudhari"
+        ]
+    },
+    {
+        "Nome": "Outsource your idea | Launch your business for 1/4 the price",
+        "Estrelas": 4.46717,
+        "Reviews": 198,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "Alibaba - How To Succeed At Importing Products",
+        "Estrelas": 4.56193,
+        "Reviews": 993,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$250",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Larry VanDenHandel"
+        ]
+    },
+    {
+        "Nome": "Learn how to Build High Quality Affiliate Websites",
+        "Estrelas": 4.6127,
+        "Reviews": 488,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Andrew Williams"
+        ]
+    },
+    {
+        "Nome": "Become a Startup Founder (Complete Course)",
+        "Estrelas": 3.87615,
+        "Reviews": 109,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Founder Institute"
+        ]
+    },
+    {
+        "Nome": "How to Start a Digital Marketing Agency From Scratch",
+        "Estrelas": 4.65464,
+        "Reviews": 97,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Nickolas Ite"
+        ]
+    },
+    {
+        "Nome": "The Non-Technical Person's guide to building products & apps",
+        "Estrelas": 4.44035,
+        "Reviews": 461,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "Launch Your First Private Label Product | Amazon FBA 2017",
+        "Estrelas": 4.65432,
+        "Reviews": 81,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Gandy"
+        ]
+    },
+    {
+        "Nome": "Rapid Prototyping for Entrepreneurs| Build a Demo in 2 hours",
+        "Estrelas": 4.44136,
+        "Reviews": 324,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "Acumen Presents: Adam Grant on Developing Original Ideas",
+        "Estrelas": 4.28756,
+        "Reviews": 193,
+        "PrecoAtual": "R$70",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Adam Grant",
+            "+Acumen Courses"
+        ]
+    },
+    {
+        "Nome": "Storytelling for Marketing and Entrepreneurship",
+        "Estrelas": 4.48101,
+        "Reviews": 79,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Glod"
+        ]
+    },
+    {
+        "Nome": "Blogging Home Business: Successful Blog & Passive Income NEW",
+        "Estrelas": 4.82039,
+        "Reviews": 103,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jean-Gabriel Paquette"
+        ]
+    },
+    {
+        "Nome": "Crowdfunding Launch Formula For Kickstarter & Indiegogo 2017",
+        "Estrelas": 4.6399,
+        "Reviews": 629,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Eli Regalado"
+        ]
+    },
+    {
+        "Nome": "Amazon FBA - How to Private Label Products & EARN income!",
+        "Estrelas": 4.53787,
+        "Reviews": 1439,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Colton Shuell"
+        ]
+    },
+    {
+        "Nome": "Cryptocurrency Wealth: How to Trade & Invest Like the Pros",
+        "Estrelas": 4.71569,
+        "Reviews": 51,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$550",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Theo McArthur"
+        ]
+    },
+    {
+        "Nome": "How to Divide Startup Equity Among Cofounders",
+        "Estrelas": 4.53676,
+        "Reviews": 136,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Symon He"
+        ]
+    },
+    {
+        "Nome": "Amazon Kindle: How To Create 10 Ebooks Per Week On Autopilot",
+        "Estrelas": 4.45714,
+        "Reviews": 105,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "The Startup Central Inc."
+        ]
+    },
+    {
+        "Nome": "The Complete Crowdfunding Course for Kickstarter & Indiegogo",
+        "Estrelas": 4.81159,
+        "Reviews": 69,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Angela Yu"
+        ]
+    },
+    {
+        "Nome": "Complete Guide to Drafting a Business Plan (with templates)",
+        "Estrelas": 4.5678,
+        "Reviews": 59,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$175",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Advance Learning"
+        ]
+    },
+    {
+        "Nome": "Acumen Presents: Dan Ariely on Changing Customer Behavior",
+        "Estrelas": 4.50694,
+        "Reviews": 504,
+        "PrecoAtual": "R$70",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "+Acumen Courses",
+            "Dan Ariely"
+        ]
+    },
+    {
+        "Nome": "Become A Pro In the Phone Unlocking Industry in 2 Hours!",
+        "Estrelas": 3.94388,
+        "Reviews": 98,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Phone Fix 411"
+        ]
+    },
+    {
+        "Nome": "Run an Autopilot Twitter Marketing Service with SocialOomph",
+        "Estrelas": 4.73383,
+        "Reviews": 201,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Towland"
+        ]
+    },
+    {
+        "Nome": "Certified Digital Marketing Expert",
+        "Estrelas": 4.23333,
+        "Reviews": 30,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Indian Institute of eCommerce"
+        ]
+    },
+    {
+        "Nome": "Business Bootcamp: 7 Weeks to Start Your Own Business",
+        "Estrelas": 4.38032,
+        "Reviews": 188,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Phil Ebiner",
+            "Video School Online Inc"
+        ]
+    },
+    {
+        "Nome": "AMAZON FBA - Advanced Private Label Launch- Rank - Crush it",
+        "Estrelas": 4.56667,
+        "Reviews": 30,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "dave dahl"
+        ]
+    },
+    {
+        "Nome": "Certifications & requirements when importing from China",
+        "Estrelas": 4.79762,
+        "Reviews": 42,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Manuel Becvar"
+        ]
+    },
+    {
+        "Nome": "Freelance Bootcamp - The Comprehensive Guide to Freelancing",
+        "Estrelas": 4.66484,
+        "Reviews": 91,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jordan Hudgens"
+        ]
+    },
+    {
+        "Nome": "The Foundation of Creating Passive Income Streams Online",
+        "Estrelas": 4.5,
+        "Reviews": 79,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$340",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Cha~zay Sandhriel Ph.D."
+        ]
+    },
+    {
+        "Nome": "Alibaba - Your Gateway to Importing & Making Huge Profits",
+        "Estrelas": 4.54762,
+        "Reviews": 756,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Colton Shuell"
+        ]
+    },
+    {
+        "Nome": "Infopreneur: Create Information Products and Online Courses",
+        "Estrelas": 4.61268,
+        "Reviews": 71,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera"
+        ]
+    },
+    {
+        "Nome": "How to import from China - The professional guide",
+        "Estrelas": 4.59794,
+        "Reviews": 97,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Manuel Becvar"
+        ]
+    },
+    {
+        "Nome": "Startup Masterclass: The Ultimate Guide For Young Startups",
+        "Estrelas": 4.39362,
+        "Reviews": 47,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Leon Chaudhari",
+            "Startup Hero"
+        ]
+    },
+    {
+        "Nome": "#1 Ultimate Crypto Currency Investing Program + Extras",
+        "Estrelas": 4.54255,
+        "Reviews": 47,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "James Part Time Entrepreneur"
+        ]
+    },
+    {
+        "Nome": "Work From Home - Less Than 1 Hour A Day - Real Business",
+        "Estrelas": 4.28425,
+        "Reviews": 146,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "The Digital Hack Academy"
+        ]
+    },
+    {
+        "Nome": "The Ultimate Guide for Land Surveying with Drones - Part 2",
+        "Estrelas": 4.57813,
+        "Reviews": 64,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Huviair Technologies",
+            "Arjun Janananda",
+            "Vikshut Mundkur"
+        ]
+    },
+    {
+        "Nome": "Crack Cold Emailing to Increase Sales and Grow Your Business",
+        "Estrelas": 4.30513,
+        "Reviews": 526,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Scott Britton"
+        ]
+    },
+    {
+        "Nome": "Turn Your Idea Into a Profitable Business: The Blueprint",
+        "Estrelas": 4.64583,
+        "Reviews": 24,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex T. Steffen"
+        ]
+    },
+    {
+        "Nome": "Life Coach Certification: Life Purpose & Happiness Coaching",
+        "Estrelas": 4.8319,
+        "Reviews": 116,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jean-Gabriel Paquette"
+        ]
+    }
+]

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-              xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+             xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
              x:Class="POSUPClass.TelaSubPag2">
+
     <ContentPage.ToolbarItems>
         <ToolbarItem Icon="ic_search_white_24dp.png"/>
     </ContentPage.ToolbarItems>
@@ -45,13 +46,8 @@
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
-
             </ListView>
-
-
         </StackLayout>
-
-
     </ScrollView>
 
 </ContentPage>

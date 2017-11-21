@@ -1,29 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="POSUPClass.CadastroPage">
     <ContentPage.Content>
     </ContentPage.Content>
 
     <ScrollView>
 
-    <StackLayout Margin="30,30,30,40" Spacing="10">
-        <Label Text="Cadastre-se com o seu endereço de e-mail" FontSize="20" FontFamily="sans-serif-thin"/>
+        <StackLayout Margin="30,30,30,40" Spacing="10">
+            <Label Text="Cadastre-se com o seu endereço de e-mail" FontSize="20" FontFamily="sans-serif-thin"/>
 
-        <StackLayout Orientation="Vertical" Spacing="1">
-            <StackLayout Orientation="Horizontal">
-                <Image Source="c_user.png" HeightRequest="10" WidthRequest="10"/>
-                <Entry x:Name="nome" Placeholder="Nome completo" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
+            <StackLayout Orientation="Vertical" Spacing="1">
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="c_user.png" HeightRequest="10" WidthRequest="10"/>
+                    <Entry x:Name="nome" Placeholder="Nome completo" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="c_email.png" HeightRequest="10" WidthRequest="10"/>
+                    <Entry x:Name="email" Placeholder="E-mail" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="c_password.png" HeightRequest="10" WidthRequest="10"/>
+                    <Entry x:Name="senha" Placeholder="Senha" IsPassword="true" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
             </StackLayout>
-            <StackLayout Orientation="Horizontal">
-                <Image Source="c_email.png" HeightRequest="10" WidthRequest="10"/>
-                <Entry x:Name="email" Placeholder="E-mail" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
-            </StackLayout>
-            <StackLayout Orientation="Horizontal">
-                <Image Source="c_password.png" HeightRequest="10" WidthRequest="10"/>
-                <Entry x:Name="senha" Placeholder="Senha" IsPassword="true" FontSize="10" FontFamily="sans-serif" PlaceholderColor="#DFDFE2" HorizontalOptions="FillAndExpand"/>
-            </StackLayout>        
-        </StackLayout>
 
-          
 
         <Label Text="Ao clicar em Login você concorda com nossos Termos de Uso e Política de Privacidade." FontSize="10" FontFamily="sans-serif-condensed" XAlign="Center"/>
         <Button Text="Cadastrar-se" BackgroundColor="Red" TextColor="White" HeightRequest="35" VerticalOptions="Center" FontSize="

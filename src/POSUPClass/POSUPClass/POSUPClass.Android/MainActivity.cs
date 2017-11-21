@@ -19,7 +19,7 @@ namespace POSUPClass.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(bundle);
-
+            //Xamarin.Forms.AsNumAssemblyHelper.HoldAssembly();
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
         }

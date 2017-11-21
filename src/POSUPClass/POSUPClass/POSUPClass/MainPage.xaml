@@ -5,6 +5,7 @@
              x:Class="POSUPClass.MainPage">
     <ContentPage.Content>
         <StackLayout>
+
             
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
@@ -16,6 +17,27 @@
                     ></Button>
             <Button Text="Entrar" x:Name="entrar" />
             <Button Text="Cadastrar" x:Name="cadastro"/>
+
+
+            <Label Text="Escolha uma tela abaixo" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Cadastro" Clicked="onClick" CommandParameter="Cadastro" />
+
+            <Button Text="Settings" Clicked="onClick" CommandParameter="Settings" />
+
+            <Button Text="Lista de Desejos" Clicked="onClick" CommandParameter="Wishlist" />
+
+            <Button Text="Meus Cursos" Clicked="onClick" CommandParameter="MeusCursos" />
+
+            <Button Text="Perfil do Professor" Clicked="onClick" CommandParameter="PerfilProfessor" />
+
+            <Button Text="Opiniões" Clicked="onClick" CommandParameter="Opinioes" />
+
+            <Button Text="Subcategorias" Clicked="onClick" CommandParameter="Subcategorias" />
+
+            <Button Text="Cursos por Subcategoria + Filtro" Clicked="onClick" CommandParameter="SubcategoriasFiltro" />
+
+            <Button Text="Meus Tickets" Clicked="onClick" CommandParameter="Tickets" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

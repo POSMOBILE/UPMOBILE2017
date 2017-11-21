@@ -5,8 +5,6 @@ using System.Collections.ObjectModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-
-
 namespace POSUPClass
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -14,18 +12,13 @@ namespace POSUPClass
     {
         public ObservableCollection<ElementsViewModel> elements { get; set; }
 
-      
-
         public class Dados
         {
             public string img { get; set; }
-
             public string texto { get; set; }
         }
 
         List<Dados> lista;
-
-
 
         public TelaSubPag2()
         {
@@ -33,101 +26,24 @@ namespace POSUPClass
 
             lista = new List<Dados>();
 
-            lista.Add(new Dados
-            {
-                img = "angular.png"
-
-            });
-
-            lista.Add(new Dados
-            {
-                img = "app.png"
-
-            });
-
-            lista.Add(new Dados
-            {
-                img = "aprenda_angular.png"
-
-            });
-
-            lista.Add(new Dados
-            {
-                img = "banco_de_dados.png"
-
-            });
-
-            lista.Add(new Dados
-            {
-                img = "unreal.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "ruby.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "curso_completo.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "react.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "ios_11.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "mongo.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "php.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "python.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "ios.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "curso_desenvolvedor.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "docker.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "ionic.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "c_sharp.png"
-
-            });
-            lista.Add(new Dados
-            {
-                img = "kotlin.png"
-
-            });
-
+            lista.Add(new Dados { img = "angular.png" });
+            lista.Add(new Dados { img = "app.png" });
+            lista.Add(new Dados { img = "aprenda_angular.png" });
+            lista.Add(new Dados { img = "banco_de_dados.png" });
+            lista.Add(new Dados { img = "unreal.png" });
+            lista.Add(new Dados { img = "ruby.png" });
+            lista.Add(new Dados { img = "curso_completo.png" });
+            lista.Add(new Dados { img = "react.png" });
+            lista.Add(new Dados { img = "ios_11.png" });
+            lista.Add(new Dados { img = "mongo.png" });
+            lista.Add(new Dados { img = "php.png" });
+            lista.Add(new Dados { img = "python.png" });
+            lista.Add(new Dados { img = "ios.png" });
+            lista.Add(new Dados { img = "curso_desenvolvedor.png" });
+            lista.Add(new Dados { img = "docker.png" });
+            lista.Add(new Dados { img = "ionic.png" });
+            lista.Add(new Dados { img = "c_sharp.png" });
+            lista.Add(new Dados { img = "kotlin.png" });
 
             MainCarouselView.ItemsSource = lista;
 
@@ -193,15 +109,5 @@ namespace POSUPClass
 
             listView.ItemsSource = elements;
         }
-
-        /*
-        private void MainCarouselView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
-        {
-            MainLabel.Text = e.SelectedItem as string;
-        }
-        */
-
-
-
     }
 }
