@@ -11,7 +11,9 @@
             <Button Text="Cadastro" Clicked="onClick" CommandParameter="Cadastro" />
 
             <Button Text="Upload vídeo" Clicked="onClick" CommandParameter="Video" />
-            
+
+            <Button Text="Lista de Cursos" Clicked="onClick" CommandParameter="ListaCursos" />
+
             <Button Text="Settings" Clicked="onClick" CommandParameter="Settings" />
 
             <Button Text="Lista de Desejos" Clicked="onClick" CommandParameter="Wishlist" />

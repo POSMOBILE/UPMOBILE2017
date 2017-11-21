@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSUPClass.ListaCursos">
+        <ListView x:Name="cursos" HasUnevenRows="true">
+        
+        <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="5">
+                            
+                        <Image Source="{Binding ImgCurso}" WidthRequest="90" HeightRequest="90" />
+                            <StackLayout HorizontalOptions="StartAndExpand">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                
+                                <Label Grid.Row="0" Grid.Column="0" Text="{Binding NomeCurso}" TextColor="Black"/>
+                                <Label Grid.Row="1" Grid.Column="0" Text="{Binding Professor}" TextColor="Gray"/>
+
+                            <Image Grid.Row="0" Grid.Column="1"  Source="{Binding EstrelaUrl}"  WidthRequest="102" HeightRequest="23" HorizontalOptions="End"></Image>
+                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding Review}" VerticalTextAlignment="Center" TextColor="Gray"/>
+
+                            <Label Grid.RowSpan="2" Grid.Column="2" Text="{Binding Preco}" TextColor="Green"/>
+
+                            </Grid>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage>

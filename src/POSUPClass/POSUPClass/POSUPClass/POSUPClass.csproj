@@ -49,6 +49,9 @@
     <Compile Include="DetalheTicketPage.xaml.cs">
       <DependentUpon>DetalheTicketPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ListaCursos.xaml.cs">
+      <DependentUpon>ListaCursos.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ListaDeDesejos.xaml.cs">
       <DependentUpon>ListaDeDesejos.xaml</DependentUpon>
     </Compile>
@@ -73,6 +76,7 @@
       <DependentUpon>MeusTickets.xaml</DependentUpon>
     </Compile>
     <Compile Include="model\Curso.cs" />
+    <Compile Include="model\Cursos.cs" />
     <Compile Include="Model\ElementoOpinioes.cs" />
     <Compile Include="Model\Desejo.cs" />
     <Compile Include="model\FileInterfaces.cs" />
@@ -221,6 +225,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="DetalheTicketPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ListaCursos.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

@@ -45,6 +45,9 @@ namespace POSUPClass
                 case "SubcategoriasFiltro":
                     this.Navigation.PushAsync(new Subcategorias());
                     break;
+                case "ListaCursos":
+                    this.Navigation.PushAsync(new ListaCursos());
+                    break;
                 case "Tickets":
                     this.Navigation.PushAsync(new MeusTickets());
                     break;
