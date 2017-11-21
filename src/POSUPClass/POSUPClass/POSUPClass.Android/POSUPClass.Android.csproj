@@ -131,7 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AndroidFeatureService.cs" />
+    <Compile Include="FileManager.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="MockFileInterfaces.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
