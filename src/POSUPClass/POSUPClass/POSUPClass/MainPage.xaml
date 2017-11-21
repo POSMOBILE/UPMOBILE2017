@@ -10,6 +10,7 @@
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Entrar" Clicked="onClickEntrar"/>
             <Button Text="Cadastrar" Clicked="onClickCadastro"/>
+            <Button Text="Meus Tickets" Clicked="onClickCadastro"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

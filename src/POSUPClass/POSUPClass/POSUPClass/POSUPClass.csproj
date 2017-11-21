@@ -38,13 +38,20 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DetalheTicketPage.xaml.cs">
+      <DependentUpon>DetalheTicketPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="MeusCursos.xaml.cs">
       <DependentUpon>MeusCursos.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MeusTickets.xaml.cs">
+      <DependentUpon>MeusTickets.xaml</DependentUpon>
+    </Compile>
     <Compile Include="model\Curso.cs" />
+    <Compile Include="model\Ticket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -73,6 +80,18 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MeusCursos.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DetalheTicketPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MeusTickets.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
