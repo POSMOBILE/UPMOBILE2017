@@ -9,12 +9,12 @@ using Xamarin.Forms.Xaml;
 
 namespace POSUPClass
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class DetalheTicketPage : ContentPage
-    {
-        public DetalheTicketPage()
-        {
-            InitializeComponent();
-        }
-    }
+	[XamlCompilation(XamlCompilationOptions.Compile)]
+	public partial class DetalheTicketPage : ContentPage
+	{
+		public DetalheTicketPage ()
+		{
+			InitializeComponent ();
+		}
+	}
 }

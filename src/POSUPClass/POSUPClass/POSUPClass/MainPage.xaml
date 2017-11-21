@@ -23,6 +23,8 @@
             <Button Text="Subcategorias" Clicked="onClick" CommandParameter="Subcategorias" />
 
             <Button Text="Cursos por Subcategoria + Filtro" Clicked="onClick" CommandParameter="SubcategoriasFiltro" />
+
+            <Button Text="Meus Tickets" Clicked="onClick" CommandParameter="Tickets" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

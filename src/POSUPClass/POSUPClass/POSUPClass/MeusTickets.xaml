@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage Title="Meus tickets" xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MT.MeusTickets">
+             x:Class="POSUPClass.MeusTickets">
     <ContentPage.ToolbarItems>
         <ToolbarItem Icon="plus.png" Text="Adicionar"
                      Clicked="ToolbarItem_Clicked"/>
@@ -9,7 +9,7 @@
     <ListView x:Name="ticketsListView">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <TextCell Text="{Binding Descricao}"></TextCell>
+                <TextCell Text="{Binding Descricao}"></TextCell> 
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>

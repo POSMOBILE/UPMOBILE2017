@@ -45,20 +45,13 @@ namespace POSUPClass
                 case "SubcategoriasFiltro":
                     this.Navigation.PushAsync(new Subcategorias());
                     break;
+                case "Tickets":
+                    this.Navigation.PushAsync(new MeusTickets());
+                    break;
 
                 default:
                     break;
             }
-        }
-
-        async void btnCategorias_Clicked(object sender, EventArgs e)
-        {
-            await this.Navigation.PushAsync(new Subcategorias());
-        }
-        async void onClickMeusTickets(object sender, System.EventArgs e)
-        {
-            var page = new DetalheTicketPage();
-            await Navigation.PushAsync(page);
         }
     }
 }

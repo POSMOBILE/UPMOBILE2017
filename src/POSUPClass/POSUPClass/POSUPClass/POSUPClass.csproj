@@ -46,6 +46,9 @@
     <Compile Include="Data\ProfessorFactory.cs" />
     <Compile Include="Data\ProfessorPerfilContatos.cs" />
     <Compile Include="Data\ProfessorPerfilCursos.cs" />
+    <Compile Include="DetalheTicketPage.xaml.cs">
+      <DependentUpon>DetalheTicketPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ListaDeDesejos.xaml.cs">
       <DependentUpon>ListaDeDesejos.xaml</DependentUpon>
     </Compile>
@@ -60,9 +63,6 @@
     </Compile>
     <Compile Include="Factory\CursoSubcategoriaFactory.cs" />
     <Compile Include="Factory\SubcategoriaFactory.cs" />
-    <Compile Include="DetalheTicketPage.xaml.cs">
-      <DependentUpon>DetalheTicketPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -75,7 +75,6 @@
     <Compile Include="model\Curso.cs" />
     <Compile Include="Model\ElementoOpinioes.cs" />
     <Compile Include="Model\Desejo.cs" />
-    <Compile Include="Model\Curso.cs" />
     <Compile Include="PerfilProfessor.xaml.cs">
       <DependentUpon>PerfilProfessor.xaml</DependentUpon>
     </Compile>
@@ -108,9 +107,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MeusCursos.xaml">
@@ -178,11 +174,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="packages.config" />
     <EmbeddedResource Include="TelaSubPag2.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CursosSubcategoria.xaml">
@@ -207,10 +203,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="DetalheTicketPage.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
+    <EmbeddedResource Include="Images\ArrowDown.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MeusTickets.xaml">
@@ -219,7 +212,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Images\ArrowDown.png" />
+    <EmbeddedResource Include="DetalheTicketPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.5.0.91635\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.5.0.91635\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />
