@@ -23,5 +23,10 @@ namespace POSUPClass
         {
             this.Navigation.PushAsync(new Settings());
         }
+        async void onClickMeusTickets(object sender, System.EventArgs e)
+        {
+            var page = new DetalheTicketPage();
+            await Navigation.PushAsync(page);
+        }
     }
 }
