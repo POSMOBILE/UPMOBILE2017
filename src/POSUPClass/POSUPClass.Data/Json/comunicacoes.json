@@ -1,0 +1,954 @@
+[
+    {
+        "Nome": "Curso Completo de Como Escrever Bem",
+        "Estrelas": 4.32353,
+        "Reviews": 85,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Álvaro Vieira"
+        ]
+    },
+    {
+        "Nome": "Jogos Digitais: Como Conquistar o Público Gamer",
+        "Estrelas": 4.13043,
+        "Reviews": 23,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Escola Brasileira de Games EBG Online",
+            "Gabriel Morato"
+        ]
+    },
+    {
+        "Nome": "Writing With Flair: How To Become An Exceptional Writer",
+        "Estrelas": 4.376,
+        "Reviews": 4375,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Shani Raja"
+        ]
+    },
+    {
+        "Nome": "The Complete Presentation and Public Speaking/Speech Course",
+        "Estrelas": 4.37209,
+        "Reviews": 817,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "Punctuation Mastery",
+        "Estrelas": 4.54538,
+        "Reviews": 584,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$430",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Shani Raja"
+        ]
+    },
+    {
+        "Nome": "Ninja Writing: The Four Levels Of Writing Mastery",
+        "Estrelas": 4.46847,
+        "Reviews": 2109,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Shani Raja"
+        ]
+    },
+    {
+        "Nome": "Editing Mastery: How To Edit Writing To Perfection",
+        "Estrelas": 4.60875,
+        "Reviews": 423,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Shani Raja"
+        ]
+    },
+    {
+        "Nome": "Writing With Impact: Writing That Persuades",
+        "Estrelas": 4.6021,
+        "Reviews": 1048,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Clare Lynch"
+        ]
+    },
+    {
+        "Nome": "Novel Writing Workshop",
+        "Estrelas": 4.70862,
+        "Reviews": 441,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Steve Alcorn"
+        ]
+    },
+    {
+        "Nome": "Writing With Flair 2.0: How To Become An Exceptional Writer",
+        "Estrelas": 4.705,
+        "Reviews": 100,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Shani Raja"
+        ]
+    },
+    {
+        "Nome": "Acumen Presents: Chris Anderson on Public Speaking",
+        "Estrelas": 4.35963,
+        "Reviews": 3220,
+        "PrecoAtual": "R$70",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "+Acumen Courses",
+            "Chris Anderson"
+        ]
+    },
+    {
+        "Nome": "Power in your PowerPoint Presentations: it can be a breeze!",
+        "Estrelas": 4.78571,
+        "Reviews": 14,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Nick Elliott"
+        ]
+    },
+    {
+        "Nome": "Public Speaking Training & Facilitator Certification",
+        "Estrelas": 4.42857,
+        "Reviews": 77,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera",
+            "Patrick Howell"
+        ]
+    },
+    {
+        "Nome": "Joke Writing Made Simple",
+        "Estrelas": 4.78627,
+        "Reviews": 255,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Greg Dean - Be Funny Inc."
+        ]
+    },
+    {
+        "Nome": "Train the Trainer Pro: No Beginners Allowed!",
+        "Estrelas": 4.67857,
+        "Reviews": 56,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Teteak"
+        ]
+    },
+    {
+        "Nome": "PowerPoint Slide Design for Crucial Presentations",
+        "Estrelas": 4.56522,
+        "Reviews": 230,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Guillermo Gonzalez"
+        ]
+    },
+    {
+        "Nome": "Public Speaking and Presentations Pro: No Beginners Allowed!",
+        "Estrelas": 4.69395,
+        "Reviews": 281,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Teteak"
+        ]
+    },
+    {
+        "Nome": "Productivity Hacks for Writers (Writing Mastery)",
+        "Estrelas": 4.69892,
+        "Reviews": 465,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jessica Brody"
+        ]
+    },
+    {
+        "Nome": "Presentation Bootcamp: Hands-On Presentation Delivery Skills",
+        "Estrelas": 4.71788,
+        "Reviews": 179,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Teteak"
+        ]
+    },
+    {
+        "Nome": "Speak Up! Stand Out and be HAPPY",
+        "Estrelas": 4.51027,
+        "Reviews": 146,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alexa Fischer"
+        ]
+    },
+    {
+        "Nome": "Develop Blockbuster Story Ideas that Sell! (Writing Mastery)",
+        "Estrelas": 4.70963,
+        "Reviews": 353,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$160",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jessica Brody"
+        ]
+    },
+    {
+        "Nome": "Negotiation A-Z™: Inside Secrets from a Master Negotiator",
+        "Estrelas": 4.79275,
+        "Reviews": 193,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Akshay Goel",
+            "Susmita Dutta"
+        ]
+    },
+    {
+        "Nome": "Networking Growth Hacks: Take Your Career to the Next Level",
+        "Estrelas": 4.40426,
+        "Reviews": 94,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Dragos Stefanescu",
+            "Jimmy Naraine",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "Become Better and Funnier at Public Speaking",
+        "Estrelas": 4.44314,
+        "Reviews": 554,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "David Nihill"
+        ]
+    },
+    {
+        "Nome": "The Complete Freelance Writing Course",
+        "Estrelas": 4.32847,
+        "Reviews": 137,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Philippa Davies"
+        ]
+    },
+    {
+        "Nome": "7 Lessons for Becoming a Standout Writer",
+        "Estrelas": 4.80435,
+        "Reviews": 46,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Duncan Koerber"
+        ]
+    },
+    {
+        "Nome": "Writing Fiction That Sings: Write Novels With Great Voice",
+        "Estrelas": 4.58228,
+        "Reviews": 237,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sally Apokedak"
+        ]
+    },
+    {
+        "Nome": "Public Speaking & Communicating: Skip Theory, Master the Art",
+        "Estrelas": 4.3476,
+        "Reviews": 292,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Desmond Byram"
+        ]
+    },
+    {
+        "Nome": "Man Up: The Ultimate Assertiveness Coaching Programme",
+        "Estrelas": 4.52652,
+        "Reviews": 132,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$325",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Kain Ramsay"
+        ]
+    },
+    {
+        "Nome": "Copywriting White Papers – An All Levels Strategy",
+        "Estrelas": 4.67787,
+        "Reviews": 357,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$250",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Len Smith",
+            "Sean Kaye"
+        ]
+    },
+    {
+        "Nome": "Reverse Engineer Riveting Fiction & Write Best Selling Books",
+        "Estrelas": 4.62806,
+        "Reviews": 695,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Geoff Shaw"
+        ]
+    },
+    {
+        "Nome": "Improve Communication: Speak Smoothly, Clearly & Confidently",
+        "Estrelas": 4.25105,
+        "Reviews": 239,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Michael Williams"
+        ]
+    },
+    {
+        "Nome": "Writing Masterclass: The Ultimate Guide to Writing Mastery",
+        "Estrelas": 4.30337,
+        "Reviews": 89,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Rachel Leroy                                 BA, MA, MFA"
+        ]
+    },
+    {
+        "Nome": "Powerful speaking",
+        "Estrelas": 4.36183,
+        "Reviews": 579,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Julian Treasure"
+        ]
+    },
+    {
+        "Nome": "Writing That Moves: Write Novels That Keep Pages Turning",
+        "Estrelas": 4.60556,
+        "Reviews": 90,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sally Apokedak"
+        ]
+    },
+    {
+        "Nome": "Young Adult Fiction Writing Workshop",
+        "Estrelas": 4.65385,
+        "Reviews": 65,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Steve Alcorn",
+            "Dani Alcorn"
+        ]
+    },
+    {
+        "Nome": "Storytelling for Public Speaking",
+        "Estrelas": 4.34762,
+        "Reviews": 105,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Glod"
+        ]
+    },
+    {
+        "Nome": "Reverse Engineer Riveting Fiction 2: The Next Level",
+        "Estrelas": 4.67834,
+        "Reviews": 157,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Geoff Shaw"
+        ]
+    },
+    {
+        "Nome": "Advanced communication skills for 21st Century leaders",
+        "Estrelas": 4.35133,
+        "Reviews": 787,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$205",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Leadapreneur Academy"
+        ]
+    },
+    {
+        "Nome": "Advanced Writing Strategies for Immediate Improvement",
+        "Estrelas": 4.44444,
+        "Reviews": 36,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jake Wolinsky"
+        ]
+    },
+    {
+        "Nome": "The Art of Communications - Become A Master Communicator",
+        "Estrelas": 4.33234,
+        "Reviews": 167,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Dr. Roy Naraine",
+            "Adam Naraine"
+        ]
+    },
+    {
+        "Nome": "Salary Negotiation: How to Negotiate a New Job Offer (Pro)",
+        "Estrelas": 4.64463,
+        "Reviews": 121,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jim Hopkinson"
+        ]
+    },
+    {
+        "Nome": "Write Your Best Fiction and Get It Published",
+        "Estrelas": 4.63636,
+        "Reviews": 11,
+        "PrecoAtual": "R$145",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jeff Gerke"
+        ]
+    },
+    {
+        "Nome": "Write Blockbuster Books Readers Love with Dead Easy Dialogue",
+        "Estrelas": 4.71371,
+        "Reviews": 248,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Geoff Shaw"
+        ]
+    },
+    {
+        "Nome": "How to Find Easy Markets to Publish Your Books In",
+        "Estrelas": 4.75686,
+        "Reviews": 255,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Geoff Shaw"
+        ]
+    },
+    {
+        "Nome": "Professional Technical Writing: Advance Your Writing Skills",
+        "Estrelas": 4.25974,
+        "Reviews": 308,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Ugur Akinci, Ph.D."
+        ]
+    },
+    {
+        "Nome": "How to Succeed with Kindle Short Reads",
+        "Estrelas": 4.75344,
+        "Reviews": 363,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Geoff Shaw"
+        ]
+    },
+    {
+        "Nome": "Drawing for Meetings, Presentations and Trainings",
+        "Estrelas": 4.48592,
+        "Reviews": 71,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Glod"
+        ]
+    },
+    {
+        "Nome": "Writing for Children",
+        "Estrelas": 4.58871,
+        "Reviews": 62,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Steve Alcorn",
+            "Dani Alcorn"
+        ]
+    },
+    {
+        "Nome": "How to Write an Effective Research Paper",
+        "Estrelas": 4.51124,
+        "Reviews": 89,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Dr Mohammad Noori"
+        ]
+    },
+    {
+        "Nome": "Publish Your Children's Picture Book",
+        "Estrelas": 4.75,
+        "Reviews": 24,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Demi Stevens"
+        ]
+    },
+    {
+        "Nome": "Glamour Presents: How to Tell Your Story",
+        "Estrelas": 4.37234,
+        "Reviews": 47,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$340",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Glamour Magazine",
+            "Elisabeth Egan"
+        ]
+    },
+    {
+        "Nome": "Sell Your Novel to a Major Publisher (Writing Mastery)",
+        "Estrelas": 4.81081,
+        "Reviews": 37,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$400",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jessica Brody"
+        ]
+    },
+    {
+        "Nome": "Promo Video - Make Talking Head Videos with Ease",
+        "Estrelas": 4.76407,
+        "Reviews": 231,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$160",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Len Smith",
+            "Sean Kaye"
+        ]
+    },
+    {
+        "Nome": "How to Stop Stalling and Write Your Book",
+        "Estrelas": 4.7,
+        "Reviews": 115,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Rachael Herron"
+        ]
+    },
+    {
+        "Nome": "Easily Release Your Fear of Public Speaking Right Now",
+        "Estrelas": 4.17797,
+        "Reviews": 59,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alexa Fischer",
+            "Daphna Slonim"
+        ]
+    },
+    {
+        "Nome": "Vocal Presentation Skills From Hollywood Legends",
+        "Estrelas": 4.44737,
+        "Reviews": 19,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Arthur Joseph"
+        ]
+    },
+    {
+        "Nome": "Report Writing Made Simple",
+        "Estrelas": 4.51546,
+        "Reviews": 97,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Clare Lynch"
+        ]
+    },
+    {
+        "Nome": "Conscious Listening",
+        "Estrelas": 4.37526,
+        "Reviews": 485,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Julian Treasure"
+        ]
+    },
+    {
+        "Nome": "Presentation Bootcamp: Hands-On Content Creation Skills",
+        "Estrelas": 4.85938,
+        "Reviews": 32,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Teteak"
+        ]
+    },
+    {
+        "Nome": "Becoming A Writer",
+        "Estrelas": 4.57062,
+        "Reviews": 439,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Cathy Presland"
+        ]
+    },
+    {
+        "Nome": "The Complete Public Speaking Course:  Become a Great Speaker",
+        "Estrelas": 4.42424,
+        "Reviews": 99,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "TJ Walker"
+        ]
+    },
+    {
+        "Nome": "Technical Writing: Master Your Writing Career",
+        "Estrelas": 4.24375,
+        "Reviews": 80,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joseph Phillips"
+        ]
+    },
+    {
+        "Nome": "Video Presentation Skills - How To Be Confident on Camera",
+        "Estrelas": 4.60377,
+        "Reviews": 53,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jimmy Naraine"
+        ]
+    },
+    {
+        "Nome": "Create Killer Presentation Hooks: The Secret Pitch",
+        "Estrelas": 4.75,
+        "Reviews": 22,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jason Teteak"
+        ]
+    },
+    {
+        "Nome": "How to Find & Correct Writing Errors: The Proofreading Guide",
+        "Estrelas": 4.30645,
+        "Reviews": 31,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Duncan Koerber"
+        ]
+    },
+    {
+        "Nome": "Romance Short Story - Creative Writing & Outlining Series 1",
+        "Estrelas": 4.14865,
+        "Reviews": 37,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Mike Dickson"
+        ]
+    },
+    {
+        "Nome": "3-Step Writing System: Blogging & Writing Secrets [2017 NEW]",
+        "Estrelas": 4.5,
+        "Reviews": 31,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Tyler Speegle"
+        ]
+    },
+    {
+        "Nome": "Speak Up for Success!  Change your life in just 5 days.",
+        "Estrelas": 4.61111,
+        "Reviews": 9,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Gary Rogers"
+        ]
+    },
+    {
+        "Nome": "Beginning Writers Workshop",
+        "Estrelas": 4.42647,
+        "Reviews": 34,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Steve Alcorn",
+            "Dani Alcorn"
+        ]
+    },
+    {
+        "Nome": "Public Speaking for the Terrified!",
+        "Estrelas": 4.34314,
+        "Reviews": 51,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$505",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Lindy Irving"
+        ]
+    },
+    {
+        "Nome": "Master Business Writing and Editing",
+        "Estrelas": 4.8,
+        "Reviews": 10,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Grant Hall"
+        ]
+    }
+]

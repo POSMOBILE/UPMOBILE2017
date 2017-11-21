@@ -1,0 +1,950 @@
+[
+    {
+        "Nome": "Curso de Vendas Completo - Da prospecção ao fechamento",
+        "Estrelas": 4.2554,
+        "Reviews": 509,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$310",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Alessio Alionço"
+        ]
+    },
+    {
+        "Nome": "Planejamento e Gestão de Vendas",
+        "Estrelas": 4.61983,
+        "Reviews": 242,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marcelo Amaral",
+            "Gruporota Consulting"
+        ]
+    },
+    {
+        "Nome": "Como se tornar um Vendedor Profissional",
+        "Estrelas": 4.53947,
+        "Reviews": 38,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marcelo Amaral",
+            "Gruporota Consulting"
+        ]
+    },
+    {
+        "Nome": "Aprenda a transformar seus clientes em fãs",
+        "Estrelas": 4.53448,
+        "Reviews": 29,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$490",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "JOSE NORONHA"
+        ]
+    },
+    {
+        "Nome": "A Arte de fazer Bons Negócios: Curso de Vendas e Negociação",
+        "Estrelas": 4.46,
+        "Reviews": 75,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$310",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Floriano Ferreira"
+        ]
+    },
+    {
+        "Nome": "Venda Mais e Melhor",
+        "Estrelas": 4.375,
+        "Reviews": 20,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$310",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marcelo Ortega"
+        ]
+    },
+    {
+        "Nome": "Curso OnLine de Vendas, Pesquisa de Mercado e Persuasão",
+        "Estrelas": 3.95833,
+        "Reviews": 12,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "André Rossiter"
+        ]
+    },
+    {
+        "Nome": "Facebook Ads: Como Promover Seu Negócio Local no Facebook",
+        "Estrelas": 4.63333,
+        "Reviews": 15,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$550",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Diego Davila"
+        ]
+    },
+    {
+        "Nome": "Curso Online de Neuromarketing",
+        "Estrelas": 4,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "André Rossiter"
+        ]
+    },
+    {
+        "Nome": "Técnicas de Negociação",
+        "Estrelas": 4.33333,
+        "Reviews": 15,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Sem Medo, Sem Crise e Vendendo Como Nunca!",
+        "Estrelas": 4.5,
+        "Reviews": 29,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marcos Barros"
+        ]
+    },
+    {
+        "Nome": "Técnicas Avançadas de Vendas",
+        "Estrelas": 3.91026,
+        "Reviews": 39,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Roberto Pantoja"
+        ]
+    },
+    {
+        "Nome": "Salesforce para Iniciantes",
+        "Estrelas": 4.55556,
+        "Reviews": 9,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Empresa EvolutoSolutions Treinamento, Consultoria e Coaching",
+            "Sr. Thiago Schmitz"
+        ]
+    },
+    {
+        "Nome": "Como vender usando Marketplaces",
+        "Estrelas": 4,
+        "Reviews": 1,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "ComSchool Cursos"
+        ]
+    },
+    {
+        "Nome": "Curso OnLine de Web Design para Ecommerce com Magento",
+        "Estrelas": 4.33333,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "André Rossiter"
+        ]
+    },
+    {
+        "Nome": "12 Verdades sobre Vendas que Nunca te Contaram",
+        "Estrelas": 3.8383,
+        "Reviews": 235,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Marcel Souza"
+        ]
+    },
+    {
+        "Nome": "Gestão Financeira",
+        "Estrelas": 4.1383,
+        "Reviews": 47,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Roberto Pantoja"
+        ]
+    },
+    {
+        "Nome": "Como Vender Mais e Fidelizar Seus Clientes Usando o Whatsapp",
+        "Estrelas": 0,
+        "Reviews": 0,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Luiz Felipe Castro"
+        ]
+    },
+    {
+        "Nome": "AutoResponder Revelado: venda mais com emails personalizados",
+        "Estrelas": 4,
+        "Reviews": 12,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Tiago Baciotti Moreira"
+        ]
+    },
+    {
+        "Nome": "Sales Training: Practical Sales Techniques",
+        "Estrelas": 4.58964,
+        "Reviews": 714,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$295",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Chris Croft"
+        ]
+    },
+    {
+        "Nome": "Business Development For Startups and Tech Companies",
+        "Estrelas": 4.28899,
+        "Reviews": 654,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Scott Britton"
+        ]
+    },
+    {
+        "Nome": "Learn to Sell Anything by Grant Cardone",
+        "Estrelas": 4.51852,
+        "Reviews": 675,
+        "PrecoAtual": "R$32",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Grant Cardone"
+        ]
+    },
+    {
+        "Nome": "Small Business Lead Generation",
+        "Estrelas": 4.5,
+        "Reviews": 306,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Scott Britton"
+        ]
+    },
+    {
+        "Nome": "Smart Marketing with Price Psychology",
+        "Estrelas": 4.76116,
+        "Reviews": 224,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$430",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Andrew Luttrell, Ph.D."
+        ]
+    },
+    {
+        "Nome": "COACHING COURSE: SHARPEN YOUR SALESMANSHIP!",
+        "Estrelas": 0,
+        "Reviews": 0,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "DioPACT Learning",
+            "Tiong Boon LIM"
+        ]
+    },
+    {
+        "Nome": "B2B Sales - Close More Deals, Get More Leads, Work Less",
+        "Estrelas": 4.45886,
+        "Reviews": 158,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Dan Englander"
+        ]
+    },
+    {
+        "Nome": "Advanced Copywriting Strategies for Online Sales",
+        "Estrelas": 4.58738,
+        "Reviews": 206,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Brian Yang"
+        ]
+    },
+    {
+        "Nome": "Sales Skills Success Vol. 1:  Sales Training For Beginners",
+        "Estrelas": 4.64634,
+        "Reviews": 41,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Ken Wells"
+        ]
+    },
+    {
+        "Nome": "Successful Storytelling for Audience Impact and Connection",
+        "Estrelas": 4.41463,
+        "Reviews": 41,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$205",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Tracy Goodwin"
+        ]
+    },
+    {
+        "Nome": "Life Purpose Coach Sales Presentation Blueprint",
+        "Estrelas": 4.77397,
+        "Reviews": 73,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$340",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera"
+        ]
+    },
+    {
+        "Nome": "Sales Strategies Masterclass: Basic To Advanced Strategies",
+        "Estrelas": 4.55556,
+        "Reviews": 9,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$460",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Leon Chaudhari"
+        ]
+    },
+    {
+        "Nome": "Supply Chain: Demand Planning (Sales Forecasting and S&OP)",
+        "Estrelas": 4.19685,
+        "Reviews": 127,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$520",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Yas Bin Abdul Quader"
+        ]
+    },
+    {
+        "Nome": "Sales and Persuasion Skills for Startups",
+        "Estrelas": 4.48621,
+        "Reviews": 145,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$160",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Len Smith",
+            "Sean Kaye"
+        ]
+    },
+    {
+        "Nome": "Sales Masterclass: The Complete Sales Strategies Bootcamp",
+        "Estrelas": 3.9,
+        "Reviews": 10,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Teaching Hero",
+            "Justus Zeemann"
+        ]
+    },
+    {
+        "Nome": "CRUSH IT !!! – Sales Strategies",
+        "Estrelas": 4.39216,
+        "Reviews": 153,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "COACHING COURSE: DEVELOP EFFECTIVE SELLING SKILLS",
+        "Estrelas": 5,
+        "Reviews": 1,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "DioPACT Learning",
+            "Chiew Hoon Hazel TAN"
+        ]
+    },
+    {
+        "Nome": "No Pressure Prospecting - Close More Sales",
+        "Estrelas": 4.31985,
+        "Reviews": 136,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "B2B Sales - Practical Techniques from Fortune 500 Companies",
+        "Estrelas": 4.56,
+        "Reviews": 75,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "buildthepipe Co."
+        ]
+    },
+    {
+        "Nome": "Life Coaching: Convert Free Sessions into Paying Clients",
+        "Estrelas": 4.66667,
+        "Reviews": 9,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera"
+        ]
+    },
+    {
+        "Nome": "How To Build An Outsourced Lead Generation Machine",
+        "Estrelas": 4.475,
+        "Reviews": 140,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Scott Britton"
+        ]
+    },
+    {
+        "Nome": "Amazon Seller Masterclass: Easily Sell Anything Like a Pro! ",
+        "Estrelas": 4.59239,
+        "Reviews": 92,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Danny Guerin"
+        ]
+    },
+    {
+        "Nome": "Responding to RFPs & Doing Business with the U.S. Government",
+        "Estrelas": 4.66667,
+        "Reviews": 3,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Ugur Akinci, Ph.D.",
+            "Sean Stevenson"
+        ]
+    },
+    {
+        "Nome": "Learn To Sell Your Idea, Product or Service in 1 Hour Flat",
+        "Estrelas": 5,
+        "Reviews": 2,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Iberdynamics Creative"
+        ]
+    },
+    {
+        "Nome": "Amazon Copywriting Master Course - Write Copy That Sells",
+        "Estrelas": 4.55714,
+        "Reviews": 35,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$190",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Shimmy Morris",
+            "Josh Morris"
+        ]
+    },
+    {
+        "Nome": "eBay Profit Bootcamp: Complete Guide to become a Powerseller",
+        "Estrelas": 4.43421,
+        "Reviews": 38,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sergey Kasimov"
+        ]
+    },
+    {
+        "Nome": "Increase Your Sales Commissions by Winning the Numbers Game",
+        "Estrelas": 4.88889,
+        "Reviews": 18,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Derek Shebby"
+        ]
+    },
+    {
+        "Nome": "POWER Sales Questions ",
+        "Estrelas": 4.35714,
+        "Reviews": 49,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "Killer Sales Technique, Learn Conversational Selling",
+        "Estrelas": 4.36607,
+        "Reviews": 56,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$550",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Evan Lacon"
+        ]
+    },
+    {
+        "Nome": "Sales Training: Secrets of a Master Closer - Part 1",
+        "Estrelas": 4.56667,
+        "Reviews": 30,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "- Mike Kaplan"
+        ]
+    },
+    {
+        "Nome": "Selling More by Talking Less",
+        "Estrelas": 4.41398,
+        "Reviews": 93,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "Sales Scripts for Appointment Setting B2B Quick-Start",
+        "Estrelas": 4.60256,
+        "Reviews": 39,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Scott Channell"
+        ]
+    },
+    {
+        "Nome": "Value Centric Selling - How to Sell on Value, Not Price",
+        "Estrelas": 4.67045,
+        "Reviews": 44,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Victor Antonio"
+        ]
+    },
+    {
+        "Nome": "MOVE ! -  Eliminate \"I Want to Think it Over\" AND Sell More",
+        "Estrelas": 4.57955,
+        "Reviews": 44,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "Sales Training: Secrets of a Master Closer - Part 2",
+        "Estrelas": 4.58333,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "- Mike Kaplan"
+        ]
+    },
+    {
+        "Nome": "Web Scraping for Sales & Growth Hacking with Import io",
+        "Estrelas": 3.92147,
+        "Reviews": 191,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Matt Ellsworth"
+        ]
+    },
+    {
+        "Nome": "Voice Mail That Makes Sales - Get Your Call Returned !",
+        "Estrelas": 4.70139,
+        "Reviews": 72,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Bob Marx"
+        ]
+    },
+    {
+        "Nome": "First Appointment Sales Tips That Close for the Next Step",
+        "Estrelas": 4.875,
+        "Reviews": 20,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$175",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Derek Shebby"
+        ]
+    },
+    {
+        "Nome": "The Complete Facebook Ads For Local Business",
+        "Estrelas": 4.52778,
+        "Reviews": 18,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$445",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Diego Davila",
+            "Internet Revolution"
+        ]
+    },
+    {
+        "Nome": "The Complete eCommerce Dropshipping Course",
+        "Estrelas": 3.83333,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$85",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Stefan Djordjevic"
+        ]
+    },
+    {
+        "Nome": "Introduction to Sales",
+        "Estrelas": 4.70339,
+        "Reviews": 59,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sorin Dumitrascu"
+        ]
+    },
+    {
+        "Nome": "WOW Factor Sales Success Training",
+        "Estrelas": 4.79167,
+        "Reviews": 24,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sean Moffett"
+        ]
+    },
+    {
+        "Nome": "Cold Call 101: How to Cold Call like a Boss",
+        "Estrelas": 4.16265,
+        "Reviews": 83,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Taariq Lewis",
+            "Vitaliy Levit"
+        ]
+    },
+    {
+        "Nome": "Proposal Tips from a Sales Pro",
+        "Estrelas": 4.84,
+        "Reviews": 25,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$175",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Derek Shebby"
+        ]
+    },
+    {
+        "Nome": "Web Design Sales Secret - How To Sell 10+ Websites A Month",
+        "Estrelas": 4.425,
+        "Reviews": 100,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$520",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "The Startup Central Inc."
+        ]
+    },
+    {
+        "Nome": "NLP For Sales And Persuasion",
+        "Estrelas": 4.45652,
+        "Reviews": 23,
+        "PrecoAtual": "R$145",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Drexel Scott"
+        ]
+    },
+    {
+        "Nome": "The Complete Sales Person",
+        "Estrelas": 4.58333,
+        "Reviews": 6,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Three Sixty Academy"
+        ]
+    },
+    {
+        "Nome": "Happiness Life Coach Sales Presentation Blueprint",
+        "Estrelas": 4.71429,
+        "Reviews": 28,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera"
+        ]
+    },
+    {
+        "Nome": "Goal Success Life Coach Sales Presentation Blueprint",
+        "Estrelas": 4.70833,
+        "Reviews": 12,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joeel & Natalie Rivera"
+        ]
+    },
+    {
+        "Nome": "Ultimate Email Marketing And Autoresponders Guide",
+        "Estrelas": 4.08772,
+        "Reviews": 57,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Genadinik",
+            "John McIntyre"
+        ]
+    },
+    {
+        "Nome": "Master the Shopper Experience to build your retail business.",
+        "Estrelas": 4.25,
+        "Reviews": 18,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Kevin Moore"
+        ]
+    },
+    {
+        "Nome": "Presentation Skills That Win Contracts",
+        "Estrelas": 4.83333,
+        "Reviews": 3,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joe Egan"
+        ]
+    },
+    {
+        "Nome": "Get Customers Excited And Sell More Right NOW!",
+        "Estrelas": 4.26667,
+        "Reviews": 15,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Joachim Guenster (J.T. Story)"
+        ]
+    }
+]

@@ -1,0 +1,946 @@
+[
+    {
+        "Nome": "MS Project 2013: Do Básico ao Avançado",
+        "Estrelas": 4.40941,
+        "Reviews": 574,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Pedro Junqueira"
+        ]
+    },
+    {
+        "Nome": "Gestão de Equipes",
+        "Estrelas": 4.50714,
+        "Reviews": 70,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Gerenciamento de Recursos Humanos",
+        "Estrelas": 4.01471,
+        "Reviews": 34,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Liderança e Gestão",
+        "Estrelas": 4.17117,
+        "Reviews": 111,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Roberto Pantoja"
+        ]
+    },
+    {
+        "Nome": "Coaching",
+        "Estrelas": 4.40659,
+        "Reviews": 91,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "CSC-Centro de Serviço Compartilhado - Guia de Implementação",
+        "Estrelas": 0,
+        "Reviews": 0,
+        "PrecoAtual": "R$145",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Uires Tapajos"
+        ]
+    },
+    {
+        "Nome": "Administração do Tempo",
+        "Estrelas": 4.52941,
+        "Reviews": 17,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Melhore o desempenho de sua Empresa",
+        "Estrelas": 4.65,
+        "Reviews": 20,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Logística",
+        "Estrelas": 3.82759,
+        "Reviews": 29,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "GESTÃO DE REUNIÕES",
+        "Estrelas": 4.2,
+        "Reviews": 20,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Floriano Ferreira"
+        ]
+    },
+    {
+        "Nome": "O novo assistente administrativo",
+        "Estrelas": 4.38889,
+        "Reviews": 9,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "MyEdu Cursos"
+        ]
+    },
+    {
+        "Nome": "Organização de Eventos",
+        "Estrelas": 3.7,
+        "Reviews": 10,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Administração da Produção e Operações",
+        "Estrelas": 4.5,
+        "Reviews": 8,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Gleison Guimarães"
+        ]
+    },
+    {
+        "Nome": "Gestão e Recuperação de Empresas em Dificuldades",
+        "Estrelas": 3.5,
+        "Reviews": 4,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$205",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "Português (Portugal)",
+        "Instrutores": [
+            "Plano Academia"
+        ]
+    },
+    {
+        "Nome": "Gestão de Inovação",
+        "Estrelas": 3,
+        "Reviews": 4,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Gestores Excelentes",
+        "Estrelas": 4.27586,
+        "Reviews": 29,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "EFEITO 5 - Gestão Empresarial"
+        ]
+    },
+    {
+        "Nome": "Planejamento Estratégico em Saúde",
+        "Estrelas": 4.42857,
+        "Reviews": 7,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$55",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "Português (Brasil)",
+        "Instrutores": [
+            "Universidade Estácio"
+        ]
+    },
+    {
+        "Nome": "Become a Product Manager | Learn the Skills & Get the Job",
+        "Estrelas": 4.48297,
+        "Reviews": 4727,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Cole Mercer",
+            "Evan Kimbrell"
+        ]
+    },
+    {
+        "Nome": "NEW for 2017! Advanced Management Training Program (v 4.1)",
+        "Estrelas": 4.41026,
+        "Reviews": 390,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$385",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Davis Jones, MBA",
+            "Eazl Publishing",
+            "Ludell Jones"
+        ]
+    },
+    {
+        "Nome": "Leadership: Practical Leadership Skills",
+        "Estrelas": 4.67633,
+        "Reviews": 431,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$250",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Chris Croft",
+            "Louise Croft"
+        ]
+    },
+    {
+        "Nome": "Leadership Skills - Leading Teams to High Performance",
+        "Estrelas": 4.51339,
+        "Reviews": 224,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$430",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Lawrence M. Miller"
+        ]
+    },
+    {
+        "Nome": "Agile Project Management: Scrum Step by Step with Examples",
+        "Estrelas": 4.12477,
+        "Reviews": 549,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Paul Ashun"
+        ]
+    },
+    {
+        "Nome": "Master the Product Manager Interview - The Complete Guide",
+        "Estrelas": 4.37816,
+        "Reviews": 435,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Charles Du"
+        ]
+    },
+    {
+        "Nome": "New Manager: The Basics and More of Being a Great Leader",
+        "Estrelas": 4.39004,
+        "Reviews": 241,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Markus Amanto"
+        ]
+    },
+    {
+        "Nome": "Leadership, management & entrepreneurship in the 21 Century",
+        "Estrelas": 4.52394,
+        "Reviews": 376,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$205",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Leadapreneur Academy"
+        ]
+    },
+    {
+        "Nome": "Agile Professional Certification Preparation (PMI-ACP)",
+        "Estrelas": 4.19969,
+        "Reviews": 318,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "LearnSmart LLC"
+        ]
+    },
+    {
+        "Nome": "Project Management, Leadership: Management, Entrepreneurship",
+        "Estrelas": 4.62832,
+        "Reviews": 113,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$535",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Jean-Gabriel Paquette"
+        ]
+    },
+    {
+        "Nome": "ISO/IEC 27001. Information Security Management System.",
+        "Estrelas": 4.228,
+        "Reviews": 125,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$235",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Cristian Vlad Lupa"
+        ]
+    },
+    {
+        "Nome": "New Manager's Five-week Success System: 25 Days > Management",
+        "Estrelas": 4.59434,
+        "Reviews": 53,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Mike Clayton"
+        ]
+    },
+    {
+        "Nome": "Consulting Approach to Problem Solving",
+        "Estrelas": 4.4375,
+        "Reviews": 64,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Piotr Gawlicki"
+        ]
+    },
+    {
+        "Nome": "Leadership: Foundational Training for First Time Managers",
+        "Estrelas": 4.17914,
+        "Reviews": 187,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "LearnSmart LLC"
+        ]
+    },
+    {
+        "Nome": "Managerial (Cost) Accounting: From Beginner to Advanced!",
+        "Estrelas": 4.41558,
+        "Reviews": 77,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Stefan Ignatovski"
+        ]
+    },
+    {
+        "Nome": "Management - Leadership, Negotiating, Assertiveness, Sales",
+        "Estrelas": 4.28309,
+        "Reviews": 136,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$220",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Chris Croft"
+        ]
+    },
+    {
+        "Nome": "How to Manage by Delegating (So You Can Achieve Your Goals)!",
+        "Estrelas": 4.59259,
+        "Reviews": 27,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "The Complete Product Management Course",
+        "Estrelas": 4.32482,
+        "Reviews": 1233,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Charles Du"
+        ]
+    },
+    {
+        "Nome": "Writing Requirements for IT — Simply Put!",
+        "Estrelas": 4.34722,
+        "Reviews": 36,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$145",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Tom and Angela Hathaway"
+        ]
+    },
+    {
+        "Nome": "Product Management :Agile Requirements using Product Backlog",
+        "Estrelas": 3.93333,
+        "Reviews": 90,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Paul Ashun"
+        ]
+    },
+    {
+        "Nome": "Designing Gamification Level 1 (Basic) + Certification",
+        "Estrelas": 4.26234,
+        "Reviews": 709,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$70",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Gabe Zichermann"
+        ]
+    },
+    {
+        "Nome": "How to Become an Effective CEO, Leader, High Performance Mgr",
+        "Estrelas": 4.45833,
+        "Reviews": 48,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Elizabeth C. Pagé"
+        ]
+    },
+    {
+        "Nome": "Designing Gamification Level2 (Intermediate) + Certification",
+        "Estrelas": 4.37324,
+        "Reviews": 142,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Gabe Zichermann"
+        ]
+    },
+    {
+        "Nome": "Six Sigma Black Belt Training",
+        "Estrelas": 4.0939,
+        "Reviews": 213,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "GreyCampus Inc."
+        ]
+    },
+    {
+        "Nome": "Chief Financial Officer Leadership Program",
+        "Estrelas": 4.34783,
+        "Reviews": 92,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Blair Cook CPA, CA CPA MBA"
+        ]
+    },
+    {
+        "Nome": "How to Motivate Employees (So That Productivity Increases)!",
+        "Estrelas": 4.5,
+        "Reviews": 23,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Chris Haroun",
+            "Complete Business Education with Chris Haroun"
+        ]
+    },
+    {
+        "Nome": "Deploy Microsoft Dynamics 365 For Businesses (MB2-715 Exam)",
+        "Estrelas": 4.26154,
+        "Reviews": 130,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Abhay Sharma"
+        ]
+    },
+    {
+        "Nome": "Salary Negotiation System: Get ready to earn Higher Salary",
+        "Estrelas": 4.7549,
+        "Reviews": 153,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Akshay Goel",
+            "Susmita Dutta"
+        ]
+    },
+    {
+        "Nome": "Learn MATLAB with Image Processing from scratch!",
+        "Estrelas": 4.26875,
+        "Reviews": 160,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Mohit Aggarwal"
+        ]
+    },
+    {
+        "Nome": "IT Risk Management",
+        "Estrelas": 3.82759,
+        "Reviews": 29,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$130",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "The Art Of Service"
+        ]
+    },
+    {
+        "Nome": "Enterprise Risk Management and ISO 31000",
+        "Estrelas": 4.24667,
+        "Reviews": 75,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$220",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Antonio Miguel"
+        ]
+    },
+    {
+        "Nome": "The Emotionally Intelligent Leader",
+        "Estrelas": 4.60526,
+        "Reviews": 19,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$520",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Robin Hills"
+        ]
+    },
+    {
+        "Nome": "ISO 9001:2015 Quality Management System Auditor Course",
+        "Estrelas": 4.35227,
+        "Reviews": 132,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Cristian Vlad Lupa"
+        ]
+    },
+    {
+        "Nome": "Product Management 101",
+        "Estrelas": 4.32391,
+        "Reviews": 1008,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$40",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Todd Birzer"
+        ]
+    },
+    {
+        "Nome": "Certified Business Process Mapping Associate",
+        "Estrelas": 3.52564,
+        "Reviews": 39,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Lateral Skills"
+        ]
+    },
+    {
+        "Nome": "Leadership Mastery: Simple, Uncommon Leadership Strategies",
+        "Estrelas": 4.78261,
+        "Reviews": 23,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$355",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Ian Bednowitz"
+        ]
+    },
+    {
+        "Nome": "MBA Business Level Marketing",
+        "Estrelas": 4.27108,
+        "Reviews": 83,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Damian Foster"
+        ]
+    },
+    {
+        "Nome": "A Beginner's Guide to Quality Management",
+        "Estrelas": 4.40612,
+        "Reviews": 245,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$385",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sandeep Kumar ­"
+        ]
+    },
+    {
+        "Nome": "ISO 9001 QMS Auditor / Lead Auditor",
+        "Estrelas": 4.41876,
+        "Reviews": 597,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sandeep Kumar ­"
+        ]
+    },
+    {
+        "Nome": "PRINCE2 Foundation and Practitioner",
+        "Estrelas": 4.11392,
+        "Reviews": 79,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$160",
+        "Pago": true,
+        "Nivel": "Nível Especialista",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "CertifyCheap International"
+        ]
+    },
+    {
+        "Nome": "Ultimate Management: Complete People Management System",
+        "Estrelas": 3.91304,
+        "Reviews": 23,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$565",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Train in a Day Training"
+        ]
+    },
+    {
+        "Nome": "Leadership: New Manager Training for Technical Professionals",
+        "Estrelas": 4.38636,
+        "Reviews": 88,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "LearnSmart LLC"
+        ]
+    },
+    {
+        "Nome": "LEADERSHIP Psychology: Negotiation and Influencing Secrets!",
+        "Estrelas": 4.56154,
+        "Reviews": 65,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$100",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Sivakami S"
+        ]
+    },
+    {
+        "Nome": "Acumen Presents: Kim Scott on Radical Candor",
+        "Estrelas": 4.53226,
+        "Reviews": 93,
+        "PrecoAtual": "R$70",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "+Acumen Courses",
+            "Kim Scott"
+        ]
+    },
+    {
+        "Nome": "Skillsets to Shift Your Career to Product Management",
+        "Estrelas": 4.4,
+        "Reviews": 60,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Raj Karamchedu"
+        ]
+    },
+    {
+        "Nome": "Delegation Mastery: Increase Productivity & Hit Your Goals!",
+        "Estrelas": 4.14583,
+        "Reviews": 24,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$580",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Steve Ballinger, MBA"
+        ]
+    },
+    {
+        "Nome": "Local business marketing course: SEO, social media & more",
+        "Estrelas": 4.6383,
+        "Reviews": 47,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$505",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Alex Genadinik"
+        ]
+    },
+    {
+        "Nome": "Management Consulting Productivity Hacks",
+        "Estrelas": 4.36765,
+        "Reviews": 68,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$115",
+        "Pago": true,
+        "Nivel": "Nível Intermediário",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Asen Gyczew"
+        ]
+    },
+    {
+        "Nome": "ISO 9001:2015 Quality Management System Transition Course",
+        "Estrelas": 4.5359,
+        "Reviews": 195,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$325",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Dr. Kamran Moosa"
+        ]
+    },
+    {
+        "Nome": "Management Masterclass: Coaching & Communication Skills",
+        "Estrelas": 4.5625,
+        "Reviews": 32,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$415",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Ramon Janssen"
+        ]
+    },
+    {
+        "Nome": "Become a master of client and account management",
+        "Estrelas": 4.5,
+        "Reviews": 21,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$265",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (UK)",
+        "Instrutores": [
+            "Robert Da Costa"
+        ]
+    },
+    {
+        "Nome": "The Superstar Manager Course",
+        "Estrelas": 4.33871,
+        "Reviews": 31,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$280",
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Paul Lynn"
+        ]
+    },
+    {
+        "Nome": "Management: Essential Skills for First Time Managers",
+        "Estrelas": 4.20571,
+        "Reviews": 175,
+        "PrecoAtual": 0,
+        "PrecoAntigo": 0,
+        "Pago": true,
+        "Nivel": "Todos os níveis",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "LearnSmart LLC"
+        ]
+    },
+    {
+        "Nome": "Problem-Solving Made Easy",
+        "Estrelas": 4.2551,
+        "Reviews": 49,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$100",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Lawrence M. Miller"
+        ]
+    },
+    {
+        "Nome": "Digital Product Management",
+        "Estrelas": 4,
+        "Reviews": 17,
+        "PrecoAtual": "R$20",
+        "PrecoAntigo": "R$505",
+        "Pago": true,
+        "Nivel": "Nível Iniciante",
+        "Idioma": "English (US)",
+        "Instrutores": [
+            "Digital Pioneer and Inventor Scott Germaise"
+        ]
+    }
+]

@@ -49,6 +49,17 @@
     <Compile Include="ListaDeDesejos.xaml.cs">
       <DependentUpon>ListaDeDesejos.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CursosSubcategoria.xaml.cs">
+      <DependentUpon>CursosSubcategoria.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\ListBox.xaml.cs">
+      <DependentUpon>ListBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\RadioButtonControl.xaml.cs">
+      <DependentUpon>RadioButtonControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Factory\CursoSubcategoriaFactory.cs" />
+    <Compile Include="Factory\SubcategoriaFactory.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -61,6 +72,9 @@
     <Compile Include="PerfilProfessor.xaml.cs">
       <DependentUpon>PerfilProfessor.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\Categoria.cs" />
+    <Compile Include="Model\CursoSubcategoria.cs" />
+    <Compile Include="Model\Subcategoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings.xaml.cs">
       <DependentUpon>Settings.xaml</DependentUpon>
@@ -73,6 +87,9 @@
       <DependentUpon>TelaSubPag2.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModel\ElementsViewModel.cs" />
+    <Compile Include="Subcategorias.xaml.cs">
+      <DependentUpon>Subcategorias.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainPage.xaml">
@@ -122,6 +139,25 @@
     <Reference Include="Xamarin.Forms.CarouselView.Platform, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.CarouselView.2.3.0-pre1\lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.CarouselView.Platform.dll</HintPath>
     </Reference>
+    <EmbeddedResource Include="Json\administracao.json" />
+    <EmbeddedResource Include="Json\comunicacoes.json" />
+    <EmbeddedResource Include="Json\empreendedorismo.json" />
+    <EmbeddedResource Include="Json\financas.json" />
+    <EmbeddedResource Include="Json\vendas.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Subcategorias.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android">
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v7.1\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.10.0.3\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.5.0.91635\lib\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
@@ -133,10 +169,37 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
     <EmbeddedResource Include="TelaSubPag2.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CursosSubcategoria.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\RadioOff.png" />
+    <EmbeddedResource Include="Images\RadioOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Custom\RadioButtonControl.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Custom\ListBox.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\ArrowDown.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.5.0.91635\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.5.0.91635\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />
